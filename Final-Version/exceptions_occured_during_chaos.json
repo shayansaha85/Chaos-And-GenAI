@@ -1,0 +1,10 @@
+[
+    {
+        "chaos_type": "faulty_response",
+        "exception": "500 Server Error: OK for url: http://127.0.0.1:5000/fetch"
+    },
+    {
+        "chaos_type": "latency",
+        "exception": "HTTPConnectionPool(host='127.0.0.1', port=5000): Read timed out. (read timeout=0.11075561464911186)"
+    }
+]

@@ -1,0 +1,40 @@
+Server Status Metrics:
+
+Connections: Number of active client connections.
+Network: Network utilization, bytes in/out, number of requests.
+Memory Usage: Memory usage by MongoDB processes and cache utilization.
+Locks: Information about database locks and contention.
+Opcounters: Counts of database operations (queries, inserts, updates, deletes, etc.).
+Repl Lag: Replication lag in a replica set environment.
+Database-Level Metrics:
+
+Collection Statistics: Information about collections such as size, number of documents, and indexes.
+Index Usage: Usage statistics for different indexes.
+Query Profiling: Profiling slow queries and their execution details.
+Storage Statistics: Disk space usage, data size, and storage engine-specific metrics.
+Replication Metrics:
+
+Replica Set Status: Status of nodes in the replica set.
+Oplog Metrics: Oplog size, utilization, and operations per second.
+Replication Lag: Delay between primary and secondary nodes.
+Sharding Metrics:
+
+Chunk Information: Distribution of data across shards.
+Balancing: Information about the balancing process and chunk migration.
+Shard Status: Status of shards in the cluster.
+Query Execution Metrics:
+
+Execution Stats: Execution times, query plans, and index usage for queries.
+Cursor Information: Cursor statistics and cursor operations.
+Storage Engine Metrics:
+
+WiredTiger Metrics: Cache utilization, read/write operations, checkpoint statistics.
+MMAPv1 Metrics: Memory mapped file usage, page faults, and read/write operations.
+Server Diagnostics:
+
+System Information: CPU usage, disk I/O, and system-level metrics.
+Logs and Errors: Collecting server logs, warnings, and error messages for troubleshooting.
+Custom Application Metrics:
+
+Application-Specific Metrics: Metrics specific to your application's performance and data access patterns.
+Collecting and monitoring these metrics helps in understanding the database's behavior, identifying performance bottlenecks, optimizing queries, and ensuring the overall health and reliability of your MongoDB deployment. MongoDB provides various methods, including commands, database tools like mongostat, mongotop, and monitoring solutions for capturing and analyzing these metrics. Using these tools or libraries like pymongo in Python, you can programmatically gather, analyze, and visualize MongoDB metrics to optimize performance and maintain system health.

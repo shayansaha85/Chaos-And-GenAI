@@ -1,0 +1,21 @@
+Timestamp: 2023-12-01 16:25:25
+Connections: {'current': 22, 'available': 999978, 'totalCreated': 8386, 'rejected': 0, 'active': 6, 'threaded': 22, 'exhaustIsMaster': 0, 'exhaustHello': 4, 'awaitingTopologyChanges': 5}
+
+Timestamp: 2023-12-01 16:25:25
+Network Traffic: {'bytesIn': 10483762, 'bytesOut': 119084827, 'physicalBytesIn': 8807422, 'physicalBytesOut': 118936798, 'numSlowDNSOperations': 0, 'numSlowSSLOperations': 0, 'numRequests': 74011, 'tcpFastOpen': {'serverSupported': True, 'clientSupported': False, 'accepted': 0}, 'compression': {'snappy': {'compressor': {'bytesIn': 0, 'bytesOut': 0}, 'decompressor': {'bytesIn': 0, 'bytesOut': 0}}, 'zstd': {'compressor': {'bytesIn': 0, 'bytesOut': 0}, 'decompressor': {'bytesIn': 0, 'bytesOut': 0}}, 'zlib': {'compressor': {'bytesIn': 0, 'bytesOut': 0}, 'decompressor': {'bytesIn': 0, 'bytesOut': 0}}}, 'serviceExecutors': {'passthrough': {'threadsRunning': 22, 'clientsInTotal': 22, 'clientsRunning': 22, 'clientsWaitingForData': 0}, 'fixed': {'threadsRunning': 1, 'clientsInTotal': 0, 'clientsRunning': 0, 'clientsWaitingForData': 0}}, 'listenerProcessingTime': {'durationMicros': 4864655}}
+
+Timestamp: 2023-12-01 16:25:25
+Memory Usage: {'bits': 64, 'resident': 61, 'virtual': 6908, 'supported': True}
+
+Timestamp: 2023-12-01 16:25:25
+Locks: {'ParallelBatchWriterMode': {'acquireCount': {'r': 14245}}, 'FeatureCompatibilityVersion': {'acquireCount': {'r': 61327, 'w': 14224}}, 'ReplicationStateTransition': {'acquireCount': {'w': 31202}}, 'Global': {'acquireCount': {'r': 61327, 'w': 14219, 'W': 5}}, 'Database': {'acquireCount': {'r': 40, 'w': 14218, 'R': 1, 'W': 1}}, 'Collection': {'acquireCount': {'r': 47, 'w': 14216, 'W': 2}}, 'Mutex': {'acquireCount': {'r': 18}}}
+
+Timestamp: 2023-12-01 16:25:25
+Opcounters: {'insert': 11001, 'query': 25250, 'update': 2461, 'delete': 343, 'getmore': 0, 'command': 37928}
+
+Timestamp: 2023-12-01 16:25:25
+Collection Statistics: {'ns': 'TEST.test_collection', 'size': 0, 'count': 0, 'numOrphanDocs': 0, 'storageSize': 0, 'totalSize': 0, 'nindexes': 0, 'totalIndexSize': 0, 'indexDetails': {}, 'indexSizes': {}, 'scaleFactor': 1, 'ok': 1.0}
+
+Timestamp: 2023-12-01 16:25:25
+Index Usage: {}
+

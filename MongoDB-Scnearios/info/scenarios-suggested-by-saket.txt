@@ -1,0 +1,40 @@
+Connection Overload
+Network Partition
+Slow Network
+Packet loss
+High Write Load
+Read-heavy Workload
+Index Build During Load
+Disk Full Scenario
+Random Node Shutdown
+Oplog Growth
+Query Complexity
+Resource Starvation
+Interrupting Queries
+Chaning Shard Key
+Adding Nodes During Load
+Connection Pool Exhaistion
+Rollback After Write
+Geographical Latency
+Network Jitter
+Simulate Hardware Failure
+Batch Insert Performance
+Mixed Workload
+Connection Timeout
+Shutting Down Primary Node
+Interrupting Index Build
+Simulate Shard Key Change
+Biased Query Pattern
+Disk IO Spike
+Mixed Data Types
+Simulate Security Incident
+Simulated Rolling Upgrade
+Interrupting Backup
+Query Plan Changes
+Geographical Failover
+Simulated Data Center Outage
+User Authentication Stress Test
+Aggregation Pipeline Complexity
+Interrupting WiredTigerr Checkpoint
+Simulated DNS Resolution Issues
+Roll Back After Index Creation

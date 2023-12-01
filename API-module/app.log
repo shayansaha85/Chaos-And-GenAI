@@ -1,0 +1,1313 @@
+2023-12-01 14:25:51,836 - INFO -  * Restarting with stat
+2023-12-01 14:25:52,754 - WARNING -  * Debugger is active!
+2023-12-01 14:25:52,757 - INFO -  * Debugger PIN: 309-501-681
+2023-12-01 14:26:00,414 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,416 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,418 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,420 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,421 - INFO - Data fetched successfully - Query Time: 0.0009944438934326172s - API Time: 0.00699615478515625s
+2023-12-01 14:26:00,422 - INFO - Response Time: 0.00799417495727539s - HTTP Status Code: 200 - Latency: 0.0009980201721191406s - Throughput: 125.09108261258575/s
+2023-12-01 14:26:00,423 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030210018157958984s
+2023-12-01 14:26:00,423 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0070040225982666016s
+2023-12-01 14:26:00,424 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,425 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,425 - INFO - Response Time: 0.005022525787353516s - HTTP Status Code: 200 - Latency: -0.001981496810913086s - Throughput: 199.10300958891105/s
+2023-12-01 14:26:00,426 - INFO - Response Time: 0.009981393814086914s - HTTP Status Code: 200 - Latency: 0.0029773712158203125s - Throughput: 100.18640869461363/s
+2023-12-01 14:26:00,426 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,427 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.008998394012451172s
+2023-12-01 14:26:00,429 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,429 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,430 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0049932003021240234s
+2023-12-01 14:26:00,430 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,430 - INFO - Response Time: 0.012014627456665039s - HTTP Status Code: 200 - Latency: 0.007021427154541016s - Throughput: 83.2318774432957/s
+2023-12-01 14:26:00,432 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006001710891723633s
+2023-12-01 14:26:00,433 - INFO - Response Time: 0.007975578308105469s - HTTP Status Code: 200 - Latency: 0.001973867416381836s - Throughput: 125.38275738371398/s
+2023-12-01 14:26:00,433 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003997087478637695s
+2023-12-01 14:26:00,434 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,436 - INFO - Response Time: 0.01000070571899414s - HTTP Status Code: 200 - Latency: 0.006003618240356445s - Throughput: 99.99294330806275/s
+2023-12-01 14:26:00,437 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,437 - INFO - Response Time: 0.008012533187866211s - HTTP Status Code: 200 - Latency: 0.004015445709228516s - Throughput: 124.80447525813075/s
+2023-12-01 14:26:00,438 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,439 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,450 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,454 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0040130615234375s
+2023-12-01 14:26:00,454 - INFO - Response Time: 0.0040130615234375s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 249.18631178707224/s
+2023-12-01 14:26:00,455 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,460 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,463 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,465 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010030269622802734s
+2023-12-01 14:26:00,465 - INFO - Response Time: 0.0020036697387695312s - HTTP Status Code: 200 - Latency: 0.0010006427764892578s - Throughput: 499.0842455973346/s
+2023-12-01 14:26:00,465 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,467 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.007009744644165039s
+2023-12-01 14:26:00,467 - INFO - Response Time: 0.007009744644165039s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 142.6585490289446/s
+2023-12-01 14:26:00,467 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,470 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,477 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,478 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.007984638214111328s
+2023-12-01 14:26:00,479 - INFO - Response Time: 0.00898885726928711s - HTTP Status Code: 200 - Latency: 0.0010042190551757812s - Throughput: 111.24884621505491/s
+2023-12-01 14:26:00,480 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002998828887939453s
+2023-12-01 14:26:00,480 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,481 - INFO - Response Time: 0.003996849060058594s - HTTP Status Code: 200 - Latency: 0.0009980201721191406s - Throughput: 250.1970890002386/s
+2023-12-01 14:26:00,482 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,483 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,484 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,486 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004011631011962891s
+2023-12-01 14:26:00,491 - INFO - Response Time: 0.009007692337036133s - HTTP Status Code: 200 - Latency: 0.004996061325073242s - Throughput: 111.01622508668379/s
+2023-12-01 14:26:00,492 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,492 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.007997751235961914s
+2023-12-01 14:26:00,493 - INFO - Response Time: 0.009003639221191406s - HTTP Status Code: 200 - Latency: 0.0010058879852294922s - Throughput: 111.0662006143417/s
+2023-12-01 14:26:00,494 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,502 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,504 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001003265380859375s
+2023-12-01 14:26:00,504 - INFO - Response Time: 0.002002239227294922s - HTTP Status Code: 200 - Latency: 0.0009989738464355469s - Throughput: 499.4408192426768/s
+2023-12-01 14:26:00,504 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,513 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,514 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,515 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020067691802978516s
+2023-12-01 14:26:00,515 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020067691802978516s
+2023-12-01 14:26:00,516 - INFO - Response Time: 0.0020067691802978516s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 498.31341333016513/s
+2023-12-01 14:26:00,516 - INFO - Response Time: 0.003000974655151367s - HTTP Status Code: 200 - Latency: 0.0009942054748535156s - Throughput: 333.2250734885199/s
+2023-12-01 14:26:00,516 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,516 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,524 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,526 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,528 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,529 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030012130737304688s
+2023-12-01 14:26:00,530 - INFO - Response Time: 0.004001617431640625s - HTTP Status Code: 200 - Latency: 0.0010004043579101562s - Throughput: 249.89895138226882/s
+2023-12-01 14:26:00,531 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006990671157836914s
+2023-12-01 14:26:00,531 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,531 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029993057250976562s
+2023-12-01 14:26:00,532 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,532 - INFO - Response Time: 0.007988691329956055s - HTTP Status Code: 200 - Latency: 0.0049893856048583984s - Throughput: 125.17694810039693/s
+2023-12-01 14:26:00,532 - INFO - Response Time: 0.003997325897216797s - HTTP Status Code: 200 - Latency: 0.0009980201721191406s - Throughput: 250.16724323034714/s
+2023-12-01 14:26:00,534 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,534 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020067691802978516s
+2023-12-01 14:26:00,535 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,535 - INFO - Response Time: 0.003000974655151367s - HTTP Status Code: 200 - Latency: 0.0009942054748535156s - Throughput: 333.2250734885199/s
+2023-12-01 14:26:00,538 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,548 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,549 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0009891986846923828s
+2023-12-01 14:26:00,550 - INFO - Response Time: 0.0029871463775634766s - HTTP Status Code: 200 - Latency: 0.0019979476928710938s - Throughput: 334.76765903104797/s
+2023-12-01 14:26:00,550 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,557 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,559 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,560 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029952526092529297s
+2023-12-01 14:26:00,560 - INFO - Response Time: 0.0029952526092529297s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.86165724747275/s
+2023-12-01 14:26:00,560 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,561 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019953250885009766s
+2023-12-01 14:26:00,561 - INFO - Response Time: 0.0019953250885009766s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 501.17146612498505/s
+2023-12-01 14:26:00,562 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,562 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,566 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004006147384643555s
+2023-12-01 14:26:00,566 - INFO - Response Time: 0.004006147384643555s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 249.61637802773313/s
+2023-12-01 14:26:00,569 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,571 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,574 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,574 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030035972595214844s
+2023-12-01 14:26:00,577 - INFO - Response Time: 0.005001544952392578s - HTTP Status Code: 200 - Latency: 0.0019979476928710938s - Throughput: 199.93822099342168/s
+2023-12-01 14:26:00,577 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,578 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,578 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003990888595581055s
+2023-12-01 14:26:00,579 - INFO - Response Time: 0.00499415397644043s - HTTP Status Code: 200 - Latency: 0.001003265380859375s - Throughput: 200.23411467035854/s
+2023-12-01 14:26:00,580 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003005504608154297s
+2023-12-01 14:26:00,580 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,581 - INFO - Response Time: 0.003994941711425781s - HTTP Status Code: 200 - Latency: 0.0009894371032714844s - Throughput: 250.31654332776318/s
+2023-12-01 14:26:00,581 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,590 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,591 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010104179382324219s
+2023-12-01 14:26:00,592 - INFO - Response Time: 0.0020112991333007812s - HTTP Status Code: 200 - Latency: 0.0010008811950683594s - Throughput: 497.1910858226648/s
+2023-12-01 14:26:00,592 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,603 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,605 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020029544830322266s
+2023-12-01 14:26:00,606 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,606 - INFO - Response Time: 0.003008127212524414s - HTTP Status Code: 200 - Latency: 0.0010051727294921875s - Throughput: 332.43274946500753/s
+2023-12-01 14:26:00,607 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,608 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,608 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020041465759277344s
+2023-12-01 14:26:00,609 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,610 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,611 - INFO - Response Time: 0.004994630813598633s - HTTP Status Code: 200 - Latency: 0.0029904842376708984s - Throughput: 200.21499832927586/s
+2023-12-01 14:26:00,611 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003999471664428711s
+2023-12-01 14:26:00,615 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,615 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,617 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0069959163665771484s
+2023-12-01 14:26:00,617 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.007993936538696289s
+2023-12-01 14:26:00,617 - INFO - Response Time: 0.009998798370361328s - HTTP Status Code: 200 - Latency: 0.002004861831665039s - Throughput: 100.01201774047404/s
+2023-12-01 14:26:00,619 - INFO - Response Time: 0.008995771408081055s - HTTP Status Code: 200 - Latency: 0.0010018348693847656s - Throughput: 111.16334048925287/s
+2023-12-01 14:26:00,619 - INFO - Response Time: 0.009993791580200195s - HTTP Status Code: 200 - Latency: 0.0019998550415039062s - Throughput: 100.06212276641935/s
+2023-12-01 14:26:00,620 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0050067901611328125s
+2023-12-01 14:26:00,620 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,621 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,621 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,621 - INFO - Response Time: 0.005998849868774414s - HTTP Status Code: 200 - Latency: 0.0009920597076416016s - Throughput: 166.698620881523/s
+2023-12-01 14:26:00,624 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,635 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,636 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010013580322265625s
+2023-12-01 14:26:00,637 - INFO - Response Time: 0.0020055770874023438s - HTTP Status Code: 200 - Latency: 0.0010042190551757812s - Throughput: 498.60960532572517/s
+2023-12-01 14:26:00,637 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,646 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,648 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020093917846679688s
+2023-12-01 14:26:00,648 - INFO - Response Time: 0.0020093917846679688s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 497.66302800189845/s
+2023-12-01 14:26:00,649 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,649 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,651 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,651 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002007007598876953s
+2023-12-01 14:26:00,652 - INFO - Response Time: 0.003003835678100586s - HTTP Status Code: 200 - Latency: 0.0009968280792236328s - Throughput: 332.9076910865942/s
+2023-12-01 14:26:00,653 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,653 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019953250885009766s
+2023-12-01 14:26:00,655 - INFO - Response Time: 0.0030007362365722656s - HTTP Status Code: 200 - Latency: 0.001005411148071289s - Throughput: 333.2515493405371/s
+2023-12-01 14:26:00,655 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,656 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,662 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,663 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00701451301574707s
+2023-12-01 14:26:00,664 - INFO - Response Time: 0.008011579513549805s - HTTP Status Code: 200 - Latency: 0.0009970664978027344s - Throughput: 124.81933160729697/s
+2023-12-01 14:26:00,664 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020089149475097656s
+2023-12-01 14:26:00,665 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,665 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,666 - INFO - Response Time: 0.0039920806884765625s - HTTP Status Code: 200 - Latency: 0.001983165740966797s - Throughput: 250.49593884376492/s
+2023-12-01 14:26:00,668 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,669 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004012346267700195s
+2023-12-01 14:26:00,669 - INFO - Response Time: 0.004012346267700195s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 249.23073266385407/s
+2023-12-01 14:26:00,670 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,677 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,678 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010046958923339844s
+2023-12-01 14:26:00,678 - INFO - Response Time: 0.0010046958923339844s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 995.3260560037969/s
+2023-12-01 14:26:00,679 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,684 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,687 - INFO - Data fetched successfully - Query Time: 0.0010025501251220703s - API Time: 0.0029973983764648438s
+2023-12-01 14:26:00,688 - INFO - Response Time: 0.003994941711425781s - HTTP Status Code: 200 - Latency: 0.0009975433349609375s - Throughput: 250.31654332776318/s
+2023-12-01 14:26:00,688 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,690 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,691 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,694 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003007650375366211s
+2023-12-01 14:26:00,694 - INFO - Response Time: 0.003007650375366211s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 332.4854538248117/s
+2023-12-01 14:26:00,694 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,697 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006986856460571289s
+2023-12-01 14:26:00,698 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,698 - INFO - Response Time: 0.007991552352905273s - HTTP Status Code: 200 - Latency: 0.0010046958923339844s - Throughput: 125.13213401354456/s
+2023-12-01 14:26:00,701 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,701 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,704 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006002664566040039s
+2023-12-01 14:26:00,705 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004014492034912109s
+2023-12-01 14:26:00,706 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,706 - INFO - Response Time: 0.007997989654541016s - HTTP Status Code: 200 - Latency: 0.003983497619628906s - Throughput: 125.03141954331366/s
+2023-12-01 14:26:00,707 - INFO - Response Time: 0.00600123405456543s - HTTP Status Code: 200 - Latency: 0.0019867420196533203s - Throughput: 166.6323944221525/s
+2023-12-01 14:26:00,709 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,710 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004001140594482422s
+2023-12-01 14:26:00,710 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,711 - INFO - Response Time: 0.004999399185180664s - HTTP Status Code: 200 - Latency: 0.0009982585906982422s - Throughput: 200.02403548094807/s
+2023-12-01 14:26:00,713 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,723 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,725 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019991397857666016s
+2023-12-01 14:26:00,725 - INFO - Response Time: 0.0019991397857666016s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 500.21514609421587/s
+2023-12-01 14:26:00,725 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,733 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,734 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,735 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019996166229248047s
+2023-12-01 14:26:00,738 - INFO - Response Time: 0.0045282840728759766s - HTTP Status Code: 200 - Latency: 0.002528667449951172s - Throughput: 220.83420207444848/s
+2023-12-01 14:26:00,739 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,740 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00552678108215332s
+2023-12-01 14:26:00,740 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,742 - INFO - Response Time: 0.007528543472290039s - HTTP Status Code: 200 - Latency: 0.0020017623901367188s - Throughput: 132.8278177154258/s
+2023-12-01 14:26:00,743 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,743 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004006624221801758s
+2023-12-01 14:26:00,744 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,747 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,748 - INFO - Response Time: 0.008542299270629883s - HTTP Status Code: 200 - Latency: 0.004535675048828125s - Throughput: 117.06450082335539/s
+2023-12-01 14:26:00,748 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004535675048828125s
+2023-12-01 14:26:00,750 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,752 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,752 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0050199031829833984s
+2023-12-01 14:26:00,753 - INFO - Response Time: 0.009530782699584961s - HTTP Status Code: 200 - Latency: 0.0045108795166015625s - Throughput: 104.92317698561601/s
+2023-12-01 14:26:00,754 - INFO - Response Time: 0.006017923355102539s - HTTP Status Code: 200 - Latency: 0.0009980201721191406s - Throughput: 166.1702785151143/s
+2023-12-01 14:26:00,754 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004008293151855469s
+2023-12-01 14:26:00,755 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,757 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,760 - INFO - Response Time: 0.010004997253417969s - HTTP Status Code: 200 - Latency: 0.0059967041015625s - Throughput: 99.95005242588886/s
+2023-12-01 14:26:00,771 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,798 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,800 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019969940185546875s
+2023-12-01 14:26:00,801 - INFO - Response Time: 0.003001689910888672s - HTTP Status Code: 200 - Latency: 0.0010046958923339844s - Throughput: 333.1456711675933/s
+2023-12-01 14:26:00,802 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,808 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,810 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,811 - INFO - Data fetched successfully - Query Time: 0.0010046958923339844s - API Time: 0.003000974655151367s
+2023-12-01 14:26:00,811 - INFO - Response Time: 0.003000974655151367s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.2250734885199/s
+2023-12-01 14:26:00,812 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,812 - INFO - Data fetched successfully - Query Time: 0.0009970664978027344s - API Time: 0.001995086669921875s
+2023-12-01 14:26:00,813 - INFO - Response Time: 0.002996206283569336s - HTTP Status Code: 200 - Latency: 0.001001119613647461s - Throughput: 333.75539110368425/s
+2023-12-01 14:26:00,814 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,819 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,822 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002994060516357422s
+2023-12-01 14:26:00,822 - INFO - Response Time: 0.002994060516357422s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.9945851250199/s
+2023-12-01 14:26:00,823 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,824 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,825 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,828 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003992795944213867s
+2023-12-01 14:26:00,829 - INFO - Response Time: 0.005002737045288086s - HTTP Status Code: 200 - Latency: 0.0010099411010742188s - Throughput: 199.89057808702282/s
+2023-12-01 14:26:00,830 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,830 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,831 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005998134613037109s
+2023-12-01 14:26:00,833 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0035283565521240234s
+2023-12-01 14:26:00,833 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,842 - INFO - Response Time: 0.01707315444946289s - HTTP Status Code: 200 - Latency: 0.013544797897338867s - Throughput: 58.571484429548946/s
+2023-12-01 14:26:00,843 - INFO - Response Time: 0.013070821762084961s - HTTP Status Code: 200 - Latency: 0.009542465209960938s - Throughput: 76.50628385896431/s
+2023-12-01 14:26:00,845 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,846 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.012542486190795898s
+2023-12-01 14:26:00,847 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,848 - INFO - Response Time: 0.014539241790771484s - HTTP Status Code: 200 - Latency: 0.001996755599975586s - Throughput: 68.77937752123577/s
+2023-12-01 14:26:00,849 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,857 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,859 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019981861114501953s
+2023-12-01 14:26:00,859 - INFO - Response Time: 0.0019981861114501953s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 500.4538837847512/s
+2023-12-01 14:26:00,859 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,861 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,863 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020036697387695312s
+2023-12-01 14:26:00,864 - INFO - Response Time: 0.003010272979736328s - HTTP Status Code: 200 - Latency: 0.0010066032409667969s - Throughput: 332.19578647235863/s
+2023-12-01 14:26:00,865 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,868 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,870 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,870 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001995563507080078s
+2023-12-01 14:26:00,872 - INFO - Response Time: 0.004004001617431641s - HTTP Status Code: 200 - Latency: 0.0020084381103515625s - Throughput: 249.75014886268906/s
+2023-12-01 14:26:00,872 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020084381103515625s
+2023-12-01 14:26:00,873 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,873 - INFO - Response Time: 0.0030088424682617188s - HTTP Status Code: 200 - Latency: 0.0010004043579101562s - Throughput: 332.35372424722664/s
+2023-12-01 14:26:00,874 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,877 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,879 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,881 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00699925422668457s
+2023-12-01 14:26:00,883 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,885 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004998445510864258s
+2023-12-01 14:26:00,885 - INFO - Response Time: 0.010997295379638672s - HTTP Status Code: 200 - Latency: 0.005998849868774414s - Throughput: 90.93144864067987/s
+2023-12-01 14:26:00,886 - INFO - Response Time: 0.007995367050170898s - HTTP Status Code: 200 - Latency: 0.0029969215393066406s - Throughput: 125.07243178768451/s
+2023-12-01 14:26:00,886 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,886 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,887 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003993034362792969s
+2023-12-01 14:26:00,888 - INFO - Response Time: 0.004998922348022461s - HTTP Status Code: 200 - Latency: 0.0010058879852294922s - Throughput: 200.0431153717747/s
+2023-12-01 14:26:00,889 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,898 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,900 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020051002502441406s
+2023-12-01 14:26:00,900 - INFO - Response Time: 0.0020051002502441406s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 498.7281807372176/s
+2023-12-01 14:26:00,900 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,908 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,909 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,910 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019996166229248047s
+2023-12-01 14:26:00,911 - INFO - Response Time: 0.0029993057250976562s - HTTP Status Code: 200 - Latency: 0.0009996891021728516s - Throughput: 333.41049284578696/s
+2023-12-01 14:26:00,911 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,912 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030069351196289062s
+2023-12-01 14:26:00,912 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,914 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,914 - INFO - Response Time: 0.005004405975341797s - HTTP Status Code: 200 - Latency: 0.0019974708557128906s - Throughput: 199.8239161505479/s
+2023-12-01 14:26:00,915 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004011631011962891s
+2023-12-01 14:26:00,917 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,917 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,918 - INFO - Response Time: 0.007000923156738281s - HTTP Status Code: 200 - Latency: 0.0029892921447753906s - Throughput: 142.83830540798257/s
+2023-12-01 14:26:00,920 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005998134613037109s
+2023-12-01 14:26:00,920 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,923 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,923 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005990743637084961s
+2023-12-01 14:26:00,924 - INFO - Response Time: 0.009996414184570312s - HTTP Status Code: 200 - Latency: 0.0040056705474853516s - Throughput: 100.03587101698149/s
+2023-12-01 14:26:00,926 - INFO - Response Time: 0.0089874267578125s - HTTP Status Code: 200 - Latency: 0.002996683120727539s - Throughput: 111.26655348047538/s
+2023-12-01 14:26:00,928 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,928 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.007999420166015625s
+2023-12-01 14:26:00,929 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,929 - INFO - Response Time: 0.009002447128295898s - HTTP Status Code: 200 - Latency: 0.0010030269622802734s - Throughput: 111.08090786302603/s
+2023-12-01 14:26:00,930 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,940 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,942 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0009963512420654297s
+2023-12-01 14:26:00,942 - INFO - Response Time: 0.001997232437133789s - HTTP Status Code: 200 - Latency: 0.0010008811950683594s - Throughput: 500.69284946878355/s
+2023-12-01 14:26:00,942 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,949 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,949 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,951 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019998550415039062s
+2023-12-01 14:26:00,951 - INFO - Response Time: 0.0019998550415039062s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 500.0362422508345/s
+2023-12-01 14:26:00,952 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002999544143676758s
+2023-12-01 14:26:00,953 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,953 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,953 - INFO - Response Time: 0.00400233268737793s - HTTP Status Code: 200 - Latency: 0.0010027885437011719s - Throughput: 249.8542920116757/s
+2023-12-01 14:26:00,956 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,957 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,958 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005007743835449219s
+2023-12-01 14:26:00,962 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006995677947998047s
+2023-12-01 14:26:00,962 - INFO - Response Time: 0.00999760627746582s - HTTP Status Code: 200 - Latency: 0.0030019283294677734s - Throughput: 100.02394295662128/s
+2023-12-01 14:26:00,963 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,964 - INFO - Response Time: 0.008998870849609375s - HTTP Status Code: 200 - Latency: 0.002003192901611328s - Throughput: 111.12505298855447/s
+2023-12-01 14:26:00,965 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,967 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,968 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,969 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006001472473144531s
+2023-12-01 14:26:00,969 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004005908966064453s
+2023-12-01 14:26:00,970 - INFO - Response Time: 0.0069997310638427734s - HTTP Status Code: 200 - Latency: 0.0029938220977783203s - Throughput: 142.86263156102046/s
+2023-12-01 14:26:00,972 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,971 - INFO - Response Time: 0.006003141403198242s - HTTP Status Code: 200 - Latency: 0.001997232437133789s - Throughput: 166.57945112990984/s
+2023-12-01 14:26:00,973 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,982 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,983 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0009899139404296875s
+2023-12-01 14:26:00,983 - INFO - Response Time: 0.0009899139404296875s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 1010.1888246628131/s
+2023-12-01 14:26:00,984 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,992 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,993 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,994 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002463102340698242s
+2023-12-01 14:26:00,995 - INFO - Response Time: 0.003481149673461914s - HTTP Status Code: 200 - Latency: 0.0010180473327636719s - Throughput: 287.26142045065404/s
+2023-12-01 14:26:00,996 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0034608840942382812s
+2023-12-01 14:26:00,996 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,997 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:00,997 - INFO - Response Time: 0.004463911056518555s - HTTP Status Code: 200 - Latency: 0.0010030269622802734s - Throughput: 224.01880040591786/s
+2023-12-01 14:26:00,999 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:00,999 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030083656311035156s
+2023-12-01 14:26:01,001 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,002 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,004 - INFO - Response Time: 0.007999658584594727s - HTTP Status Code: 200 - Latency: 0.004991292953491211s - Throughput: 125.00533484338212/s
+2023-12-01 14:26:01,006 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,007 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.007990360260009766s
+2023-12-01 14:26:01,010 - INFO - Response Time: 0.010995864868164062s - HTTP Status Code: 200 - Latency: 0.003997325897216797s - Throughput: 90.94327840416305/s
+2023-12-01 14:26:01,009 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006998538970947266s
+2023-12-01 14:26:01,008 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,011 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,012 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00600123405456543s
+2023-12-01 14:26:01,012 - INFO - Response Time: 0.009990215301513672s - HTTP Status Code: 200 - Latency: 0.003988981246948242s - Throughput: 100.09794281895853/s
+2023-12-01 14:26:01,014 - INFO - Response Time: 0.008002042770385742s - HTTP Status Code: 200 - Latency: 0.0020008087158203125s - Throughput: 124.96808986085868/s
+2023-12-01 14:26:01,015 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,016 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,028 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,030 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019986629486083984s
+2023-12-01 14:26:01,030 - INFO - Response Time: 0.0019986629486083984s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 500.3344864606943/s
+2023-12-01 14:26:01,030 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,038 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,040 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,041 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029990673065185547s
+2023-12-01 14:26:01,041 - INFO - Response Time: 0.0029990673065185547s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.4369981715558/s
+2023-12-01 14:26:01,041 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,042 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030014514923095703s
+2023-12-01 14:26:01,042 - INFO - Response Time: 0.0030014514923095703s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.1721344030503/s
+2023-12-01 14:26:01,043 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,045 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,049 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,051 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005999088287353516s
+2023-12-01 14:26:01,052 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,052 - INFO - Response Time: 0.007003068923950195s - HTTP Status Code: 200 - Latency: 0.0010039806365966797s - Throughput: 142.7945392026691/s
+2023-12-01 14:26:01,053 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003997802734375s
+2023-12-01 14:26:01,054 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,055 - INFO - Response Time: 0.006005764007568359s - HTTP Status Code: 200 - Latency: 0.0020079612731933594s - Throughput: 166.5067090115125/s
+2023-12-01 14:26:01,056 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,056 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003997325897216797s
+2023-12-01 14:26:01,057 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,059 - INFO - Response Time: 0.005997419357299805s - HTTP Status Code: 200 - Latency: 0.002000093460083008s - Throughput: 166.73838203140528/s
+2023-12-01 14:26:01,059 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030040740966796875s
+2023-12-01 14:26:01,062 - INFO - Response Time: 0.006002664566040039s - HTTP Status Code: 200 - Latency: 0.0029985904693603516s - Throughput: 166.59268379870517/s
+2023-12-01 14:26:01,060 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,063 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,079 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,080 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,081 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020051002502441406s
+2023-12-01 14:26:01,082 - INFO - Response Time: 0.0030117034912109375s - HTTP Status Code: 200 - Latency: 0.0010066032409667969s - Throughput: 332.03799873337556/s
+2023-12-01 14:26:01,083 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030107498168945312s
+2023-12-01 14:26:01,083 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,083 - INFO - Response Time: 0.0030107498168945312s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 332.14317389927146/s
+2023-12-01 14:26:01,084 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,092 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,093 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,095 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029973983764648438s
+2023-12-01 14:26:01,096 - INFO - Response Time: 0.003996610641479492s - HTTP Status Code: 200 - Latency: 0.0009992122650146484s - Throughput: 250.21201455586709/s
+2023-12-01 14:26:01,096 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,098 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,099 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006000995635986328s
+2023-12-01 14:26:01,100 - INFO - Response Time: 0.006998777389526367s - HTTP Status Code: 200 - Latency: 0.000997781753540039s - Throughput: 142.88209845000853/s
+2023-12-01 14:26:01,101 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,102 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004006385803222656s
+2023-12-01 14:26:01,103 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,104 - INFO - Response Time: 0.00600433349609375s - HTTP Status Code: 200 - Latency: 0.0019979476928710938s - Throughput: 166.5463786531131/s
+2023-12-01 14:26:01,107 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,108 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,109 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0059909820556640625s
+2023-12-01 14:26:01,111 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00400233268737793s
+2023-12-01 14:26:01,111 - INFO - Response Time: 0.00799703598022461s - HTTP Status Code: 200 - Latency: 0.00399470329284668s - Throughput: 125.0463299743605/s
+2023-12-01 14:26:01,112 - INFO - Response Time: 0.004999399185180664s - HTTP Status Code: 200 - Latency: 0.0009970664978027344s - Throughput: 200.02403548094807/s
+2023-12-01 14:26:01,113 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,114 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,123 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,125 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019979476928710938s
+2023-12-01 14:26:01,125 - INFO - Response Time: 0.0019979476928710938s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 500.51360381861576/s
+2023-12-01 14:26:01,126 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,128 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,130 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002003192901611328s
+2023-12-01 14:26:01,130 - INFO - Response Time: 0.002003192901611328s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 499.20304689359676/s
+2023-12-01 14:26:01,130 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,134 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,137 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,138 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0040035247802734375s
+2023-12-01 14:26:01,138 - INFO - Response Time: 0.0040035247802734375s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 249.77989518818484/s
+2023-12-01 14:26:01,139 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,140 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030066967010498047s
+2023-12-01 14:26:01,140 - INFO - Response Time: 0.0030066967010498047s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 332.590912695266/s
+2023-12-01 14:26:01,141 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,144 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,147 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030066967010498047s
+2023-12-01 14:26:01,149 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,150 - INFO - Response Time: 0.005997180938720703s - HTTP Status Code: 200 - Latency: 0.0029904842376708984s - Throughput: 166.7450107338793/s
+2023-12-01 14:26:01,154 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,155 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,155 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005988597869873047s
+2023-12-01 14:26:01,156 - INFO - Response Time: 0.0069887638092041016s - HTTP Status Code: 200 - Latency: 0.0010001659393310547s - Throughput: 143.086821546754/s
+2023-12-01 14:26:01,157 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,158 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003995418548583984s
+2023-12-01 14:26:01,158 - INFO - Response Time: 0.003995418548583984s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 250.28666905358634/s
+2023-12-01 14:26:01,158 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,168 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,169 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001003265380859375s
+2023-12-01 14:26:01,170 - INFO - Response Time: 0.0020134449005126953s - HTTP Status Code: 200 - Latency: 0.0010101795196533203s - Throughput: 496.66121965660153/s
+2023-12-01 14:26:01,170 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,177 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,179 - INFO - Data fetched successfully - Query Time: 0.0009996891021728516s - API Time: 0.0019981861114501953s
+2023-12-01 14:26:01,179 - INFO - Response Time: 0.0019981861114501953s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 500.4538837847512/s
+2023-12-01 14:26:01,180 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,183 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,184 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,186 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003003835678100586s
+2023-12-01 14:26:01,188 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0039997100830078125s
+2023-12-01 14:26:01,189 - INFO - Response Time: 0.006002187728881836s - HTTP Status Code: 200 - Latency: 0.0020024776458740234s - Throughput: 166.60591857000992/s
+2023-12-01 14:26:01,189 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,190 - INFO - Response Time: 0.005999565124511719s - HTTP Status Code: 200 - Latency: 0.0019998550415039062s - Throughput: 166.67874741694484/s
+2023-12-01 14:26:01,191 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,191 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,193 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,193 - INFO - Data fetched successfully - Query Time: 0.0009961128234863281s - API Time: 0.00399470329284668s
+2023-12-01 14:26:01,194 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,196 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004998207092285156s
+2023-12-01 14:26:01,196 - INFO - Response Time: 0.006996870040893555s - HTTP Status Code: 200 - Latency: 0.0019986629486083984s - Throughput: 142.92104814802195/s
+2023-12-01 14:26:01,199 - INFO - Response Time: 0.008008241653442383s - HTTP Status Code: 200 - Latency: 0.0030100345611572266s - Throughput: 124.87135669415582/s
+2023-12-01 14:26:01,200 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00600743293762207s
+2023-12-01 14:26:01,200 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,202 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,202 - INFO - Response Time: 0.008001565933227539s - HTTP Status Code: 200 - Latency: 0.0019941329956054688s - Throughput: 124.97553708173177/s
+2023-12-01 14:26:01,203 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,213 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,214 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010066032409667969s
+2023-12-01 14:26:01,215 - INFO - Response Time: 0.0020051002502441406s - HTTP Status Code: 200 - Latency: 0.0009984970092773438s - Throughput: 498.7281807372176/s
+2023-12-01 14:26:01,215 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,225 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,226 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010018348693847656s
+2023-12-01 14:26:01,227 - INFO - Response Time: 0.0030031204223632812s - HTTP Status Code: 200 - Latency: 0.0020012855529785156s - Throughput: 332.9869799936488/s
+2023-12-01 14:26:01,228 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,228 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,230 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,231 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002001047134399414s
+2023-12-01 14:26:01,231 - INFO - Response Time: 0.0030035972595214844s - HTTP Status Code: 200 - Latency: 0.0010025501251220703s - Throughput: 332.9341165264328/s
+2023-12-01 14:26:01,233 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,233 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030028820037841797s
+2023-12-01 14:26:01,234 - INFO - Response Time: 0.003998994827270508s - HTTP Status Code: 200 - Latency: 0.0009961128234863281s - Throughput: 250.06283908662732/s
+2023-12-01 14:26:01,235 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,239 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,241 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,243 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,243 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00752568244934082s
+2023-12-01 14:26:01,245 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019989013671875s
+2023-12-01 14:26:01,246 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004998683929443359s
+2023-12-01 14:26:01,246 - INFO - Response Time: 0.010526657104492188s - HTTP Status Code: 200 - Latency: 0.005527973175048828s - Throughput: 94.99691973183548/s
+2023-12-01 14:26:01,246 - INFO - Response Time: 0.003000974655151367s - HTTP Status Code: 200 - Latency: -0.001997709274291992s - Throughput: 333.2250734885199/s
+2023-12-01 14:26:01,247 - INFO - Response Time: 0.005995988845825195s - HTTP Status Code: 200 - Latency: 0.000997304916381836s - Throughput: 166.77816215356475/s
+2023-12-01 14:26:01,248 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,248 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,248 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,259 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,260 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0009961128234863281s
+2023-12-01 14:26:01,261 - INFO - Response Time: 0.002000570297241211s - HTTP Status Code: 200 - Latency: 0.0010044574737548828s - Throughput: 499.85746633297583/s
+2023-12-01 14:26:01,261 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,270 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,271 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,273 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030035972595214844s
+2023-12-01 14:26:01,273 - INFO - Response Time: 0.0030035972595214844s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 332.9341165264328/s
+2023-12-01 14:26:01,274 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,274 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030014514923095703s
+2023-12-01 14:26:01,275 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,276 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,277 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030007362365722656s
+2023-12-01 14:26:01,278 - INFO - Response Time: 0.006997108459472656s - HTTP Status Code: 200 - Latency: 0.003996372222900391s - Throughput: 142.91617827449912/s
+2023-12-01 14:26:01,279 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,280 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0040051937103271484s
+2023-12-01 14:26:01,281 - INFO - Response Time: 0.007005929946899414s - HTTP Status Code: 200 - Latency: 0.0030007362365722656s - Throughput: 142.73622596562873/s
+2023-12-01 14:26:01,282 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,283 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,285 - INFO - Response Time: 0.009001970291137695s - HTTP Status Code: 200 - Latency: 0.004996776580810547s - Throughput: 111.0867918531663/s
+2023-12-01 14:26:01,285 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005995273590087891s
+2023-12-01 14:26:01,286 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,288 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,288 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0049991607666015625s
+2023-12-01 14:26:01,288 - INFO - Response Time: 0.008991479873657227s - HTTP Status Code: 200 - Latency: 0.003992319107055664s - Throughput: 111.21639752870362/s
+2023-12-01 14:26:01,292 - INFO - Response Time: 0.00800323486328125s - HTTP Status Code: 200 - Latency: 0.0030040740966796875s - Throughput: 124.94947569113441/s
+2023-12-01 14:26:01,293 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,295 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,309 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,310 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0009970664978027344s
+2023-12-01 14:26:01,311 - INFO - Response Time: 0.001995086669921875s - HTTP Status Code: 200 - Latency: 0.0009980201721191406s - Throughput: 501.23135755258124/s
+2023-12-01 14:26:01,311 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,315 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,317 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020024776458740234s
+2023-12-01 14:26:01,318 - INFO - Response Time: 0.0029993057250976562s - HTTP Status Code: 200 - Latency: 0.0009968280792236328s - Throughput: 333.41049284578696/s
+2023-12-01 14:26:01,319 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,322 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,324 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,327 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019998550415039062s
+2023-12-01 14:26:01,327 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004998445510864258s
+2023-12-01 14:26:01,327 - INFO - Response Time: 0.002993345260620117s - HTTP Status Code: 200 - Latency: -0.0020051002502441406s - Throughput: 334.07439267224214/s
+2023-12-01 14:26:01,328 - INFO - Response Time: 0.006002187728881836s - HTTP Status Code: 200 - Latency: 0.0010037422180175781s - Throughput: 166.60591857000992/s
+2023-12-01 14:26:01,329 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,329 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,330 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,331 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019979476928710938s
+2023-12-01 14:26:01,332 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,332 - INFO - Response Time: 0.004003047943115234s - HTTP Status Code: 200 - Latency: 0.0020051002502441406s - Throughput: 249.80964860035735/s
+2023-12-01 14:26:01,334 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,336 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0035119056701660156s
+2023-12-01 14:26:01,340 - INFO - Response Time: 0.007527589797973633s - HTTP Status Code: 200 - Latency: 0.004015684127807617s - Throughput: 132.84464574161467/s
+2023-12-01 14:26:01,341 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,345 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,347 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019960403442382812s
+2023-12-01 14:26:01,347 - INFO - Response Time: 0.0019960403442382812s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 500.99187768752984/s
+2023-12-01 14:26:01,347 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,356 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,358 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020046234130859375s
+2023-12-01 14:26:01,358 - INFO - Response Time: 0.0020046234130859375s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 498.8468125594672/s
+2023-12-01 14:26:01,359 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,360 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,362 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001997709274291992s
+2023-12-01 14:26:01,362 - INFO - Response Time: 0.001997709274291992s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 500.5733381071727/s
+2023-12-01 14:26:01,363 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,364 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,367 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029938220977783203s
+2023-12-01 14:26:01,368 - INFO - Response Time: 0.004001140594482422s - HTTP Status Code: 200 - Latency: 0.0010073184967041016s - Throughput: 249.92873316648792/s
+2023-12-01 14:26:01,369 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,369 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,374 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0050048828125s
+2023-12-01 14:26:01,375 - INFO - Response Time: 0.006002187728881836s - HTTP Status Code: 200 - Latency: 0.000997304916381836s - Throughput: 166.60591857000992/s
+2023-12-01 14:26:01,377 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,377 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,377 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,379 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020062923431396484s
+2023-12-01 14:26:01,380 - INFO - Response Time: 0.0029993057250976562s - HTTP Status Code: 200 - Latency: 0.0009930133819580078s - Throughput: 333.41049284578696/s
+2023-12-01 14:26:01,380 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,381 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0039975643157958984s
+2023-12-01 14:26:01,381 - INFO - Response Time: 0.0039975643157958984s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 250.152323015447/s
+2023-12-01 14:26:01,382 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,390 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,392 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001997232437133789s
+2023-12-01 14:26:01,392 - INFO - Response Time: 0.001997232437133789s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 500.69284946878355/s
+2023-12-01 14:26:01,392 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,401 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,403 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0009984970092773438s
+2023-12-01 14:26:01,403 - INFO - Response Time: 0.0019958019256591797s - HTTP Status Code: 200 - Latency: 0.000997304916381836s - Throughput: 501.0517261975869/s
+2023-12-01 14:26:01,403 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,404 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,407 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029990673065185547s
+2023-12-01 14:26:01,407 - INFO - Response Time: 0.0029990673065185547s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.4369981715558/s
+2023-12-01 14:26:01,408 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,409 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,411 - INFO - Data fetched successfully - Query Time: 0.0009944438934326172s - API Time: 0.001993894577026367s
+2023-12-01 14:26:01,412 - INFO - Response Time: 0.002999544143676758s - HTTP Status Code: 200 - Latency: 0.0010056495666503906s - Throughput: 333.38399173356646/s
+2023-12-01 14:26:01,415 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,417 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,419 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,420 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004001140594482422s
+2023-12-01 14:26:01,421 - INFO - Response Time: 0.0050048828125s - HTTP Status Code: 200 - Latency: 0.0010037422180175781s - Throughput: 199.8048780487805/s
+2023-12-01 14:26:01,421 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,423 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004000186920166016s
+2023-12-01 14:26:01,424 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,424 - INFO - Response Time: 0.004997730255126953s - HTTP Status Code: 200 - Latency: 0.0009975433349609375s - Throughput: 200.0908310275737/s
+2023-12-01 14:26:01,426 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,427 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003001689910888672s
+2023-12-01 14:26:01,427 - INFO - Response Time: 0.003001689910888672s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.1456711675933/s
+2023-12-01 14:26:01,427 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,432 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,437 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005003213882446289s
+2023-12-01 14:26:01,437 - INFO - Response Time: 0.005003213882446289s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 199.87152728139148/s
+2023-12-01 14:26:01,437 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,448 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,450 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002004861831665039s
+2023-12-01 14:26:01,450 - INFO - Response Time: 0.002004861831665039s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 498.7874895944821/s
+2023-12-01 14:26:01,451 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,452 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,456 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004011631011962891s
+2023-12-01 14:26:01,456 - INFO - Response Time: 0.004011631011962891s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 249.2751693807203/s
+2023-12-01 14:26:01,457 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,460 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,463 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029969215393066406s
+2023-12-01 14:26:01,463 - INFO - Response Time: 0.0029969215393066406s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.6757358790772/s
+2023-12-01 14:26:01,464 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,464 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,468 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,469 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0049991607666015625s
+2023-12-01 14:26:01,471 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,471 - INFO - Response Time: 0.007002830505371094s - HTTP Status Code: 200 - Latency: 0.0020036697387695312s - Throughput: 142.7994007898679/s
+2023-12-01 14:26:01,472 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003997325897216797s
+2023-12-01 14:26:01,473 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,473 - INFO - Response Time: 0.0049970149993896484s - HTTP Status Code: 200 - Latency: 0.0009996891021728516s - Throughput: 200.1194713488239/s
+2023-12-01 14:26:01,474 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002999544143676758s
+2023-12-01 14:26:01,477 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,478 - INFO - Response Time: 0.006998777389526367s - HTTP Status Code: 200 - Latency: 0.003999233245849609s - Throughput: 142.88209845000853/s
+2023-12-01 14:26:01,479 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,489 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,490 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0009946823120117188s
+2023-12-01 14:26:01,490 - INFO - Response Time: 0.0019986629486083984s - HTTP Status Code: 200 - Latency: 0.0010039806365966797s - Throughput: 500.3344864606943/s
+2023-12-01 14:26:01,491 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,493 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,494 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010004043579101562s
+2023-12-01 14:26:01,495 - INFO - Response Time: 0.00200653076171875s - HTTP Status Code: 200 - Latency: 0.0010061264038085938s - Throughput: 498.3726235741445/s
+2023-12-01 14:26:01,495 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,500 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,503 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,504 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003992795944213867s
+2023-12-01 14:26:01,506 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,506 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002993345260620117s
+2023-12-01 14:26:01,507 - INFO - Response Time: 0.006994962692260742s - HTTP Status Code: 200 - Latency: 0.004001617431640625s - Throughput: 142.96001908722178/s
+2023-12-01 14:26:01,508 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,509 - INFO - Response Time: 0.005992889404296875s - HTTP Status Code: 200 - Latency: 0.002999544143676758s - Throughput: 166.86441756842774/s
+2023-12-01 14:26:01,510 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003999471664428711s
+2023-12-01 14:26:01,510 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,511 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,512 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,512 - INFO - Response Time: 0.006002187728881836s - HTTP Status Code: 200 - Latency: 0.002002716064453125s - Throughput: 166.60591857000992/s
+2023-12-01 14:26:01,512 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004003286361694336s
+2023-12-01 14:26:01,514 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,515 - INFO - Response Time: 0.007002353668212891s - HTTP Status Code: 200 - Latency: 0.0029990673065185547s - Throughput: 142.80912495743956/s
+2023-12-01 14:26:01,516 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005007743835449219s
+2023-12-01 14:26:01,517 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,517 - INFO - Response Time: 0.0060045719146728516s - HTTP Status Code: 200 - Latency: 0.0009968280792236328s - Throughput: 166.53976573357156/s
+2023-12-01 14:26:01,521 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,532 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,533 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0009913444519042969s
+2023-12-01 14:26:01,534 - INFO - Response Time: 0.0020012855529785156s - HTTP Status Code: 200 - Latency: 0.0010099411010742188s - Throughput: 499.67881820347867/s
+2023-12-01 14:26:01,534 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,535 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,537 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,538 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002995014190673828s
+2023-12-01 14:26:01,538 - INFO - Response Time: 0.002995014190673828s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.8882343575864/s
+2023-12-01 14:26:01,539 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019941329956054688s
+2023-12-01 14:26:01,539 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,539 - INFO - Response Time: 0.0019941329956054688s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 501.47106647537066/s
+2023-12-01 14:26:01,541 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,544 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,545 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010008811950683594s
+2023-12-01 14:26:01,546 - INFO - Response Time: 0.0019986629486083984s - HTTP Status Code: 200 - Latency: 0.000997781753540039s - Throughput: 500.3344864606943/s
+2023-12-01 14:26:01,546 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,552 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,555 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029973983764648438s
+2023-12-01 14:26:01,555 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,556 - INFO - Response Time: 0.004004716873168945s - HTTP Status Code: 200 - Latency: 0.0010073184967041016s - Throughput: 249.70554265642673/s
+2023-12-01 14:26:01,557 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,558 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,559 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004004716873168945s
+2023-12-01 14:26:01,560 - INFO - Response Time: 0.005011081695556641s - HTTP Status Code: 200 - Latency: 0.0010063648223876953s - Throughput: 199.5577124369588/s
+2023-12-01 14:26:01,561 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030007362365722656s
+2023-12-01 14:26:01,561 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,562 - INFO - Response Time: 0.004002094268798828s - HTTP Status Code: 200 - Latency: 0.0010013580322265625s - Throughput: 249.86917669486476/s
+2023-12-01 14:26:01,563 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,576 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,578 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,579 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002994060516357422s
+2023-12-01 14:26:01,580 - INFO - Response Time: 0.0039975643157958984s - HTTP Status Code: 200 - Latency: 0.0010035037994384766s - Throughput: 250.152323015447/s
+2023-12-01 14:26:01,580 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,581 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002982616424560547s
+2023-12-01 14:26:01,581 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,582 - INFO - Response Time: 0.003988027572631836s - HTTP Status Code: 200 - Latency: 0.001005411148071289s - Throughput: 250.750523106355/s
+2023-12-01 14:26:01,584 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,586 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005012035369873047s
+2023-12-01 14:26:01,589 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,590 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,592 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,592 - INFO - Response Time: 0.010998010635375977s - HTTP Status Code: 200 - Latency: 0.00598597526550293s - Throughput: 90.92553491296148/s
+2023-12-01 14:26:01,593 - INFO - Data fetched successfully - Query Time: 0.0009946823120117188s - API Time: 0.009004831314086914s
+2023-12-01 14:26:01,595 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004999637603759766s
+2023-12-01 14:26:01,595 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,596 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004006385803222656s
+2023-12-01 14:26:01,596 - INFO - Response Time: 0.012005090713500977s - HTTP Status Code: 200 - Latency: 0.00799870491027832s - Throughput: 83.29799614720076/s
+2023-12-01 14:26:01,596 - INFO - Response Time: 0.005997419357299805s - HTTP Status Code: 200 - Latency: 0.0019910335540771484s - Throughput: 166.73838203140528/s
+2023-12-01 14:26:01,598 - INFO - Response Time: 0.00600433349609375s - HTTP Status Code: 200 - Latency: 0.0019979476928710938s - Throughput: 166.5463786531131/s
+2023-12-01 14:26:01,599 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,599 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,600 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,617 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,620 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019981861114501953s
+2023-12-01 14:26:01,620 - INFO - Response Time: 0.0029973983764648438s - HTTP Status Code: 200 - Latency: 0.0009992122650146484s - Throughput: 333.6226535157493/s
+2023-12-01 14:26:01,620 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,621 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,624 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030050277709960938s
+2023-12-01 14:26:01,624 - INFO - Response Time: 0.0030050277709960938s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 332.77562678514755/s
+2023-12-01 14:26:01,627 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,628 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,630 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,632 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003997325897216797s
+2023-12-01 14:26:01,632 - INFO - Response Time: 0.003997325897216797s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 250.16724323034714/s
+2023-12-01 14:26:01,633 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029976367950439453s
+2023-12-01 14:26:01,633 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,634 - INFO - Response Time: 0.003998517990112305s - HTTP Status Code: 200 - Latency: 0.0010008811950683594s - Throughput: 250.092659948721/s
+2023-12-01 14:26:01,635 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,635 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,637 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001998424530029297s
+2023-12-01 14:26:01,638 - INFO - Response Time: 0.0029964447021484375s - HTTP Status Code: 200 - Latency: 0.0009980201721191406s - Throughput: 333.7288351368555/s
+2023-12-01 14:26:01,639 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,659 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,659 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,661 - INFO - Data fetched successfully - Query Time: 0.0009932518005371094s - API Time: 0.003005504608154297s
+2023-12-01 14:26:01,662 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030107498168945312s
+2023-12-01 14:26:01,662 - INFO - Response Time: 0.00401616096496582s - HTTP Status Code: 200 - Latency: 0.001005411148071289s - Throughput: 248.99400415553578/s
+2023-12-01 14:26:01,663 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,663 - INFO - Response Time: 0.0039937496185302734s - HTTP Status Code: 200 - Latency: 0.0009829998016357422s - Throughput: 250.39126022327025/s
+2023-12-01 14:26:01,664 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,665 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,666 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,666 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029990673065185547s
+2023-12-01 14:26:01,669 - INFO - Response Time: 0.006001949310302734s - HTTP Status Code: 200 - Latency: 0.0030028820037841797s - Throughput: 166.61253674425996/s
+2023-12-01 14:26:01,670 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,671 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,671 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0050046443939208984s
+2023-12-01 14:26:01,676 - INFO - Response Time: 0.009002208709716797s - HTTP Status Code: 200 - Latency: 0.0039975643157958984s - Throughput: 111.08384978017904/s
+2023-12-01 14:26:01,676 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,677 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.007002830505371094s
+2023-12-01 14:26:01,677 - INFO - Response Time: 0.007002830505371094s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 142.7994007898679/s
+2023-12-01 14:26:01,678 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,688 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,690 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020017623901367188s
+2023-12-01 14:26:01,691 - INFO - Response Time: 0.0030090808868408203s - HTTP Status Code: 200 - Latency: 0.0010073184967041016s - Throughput: 332.327390856509/s
+2023-12-01 14:26:01,691 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,693 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,694 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001009225845336914s
+2023-12-01 14:26:01,695 - INFO - Response Time: 0.002007722854614258s - HTTP Status Code: 200 - Latency: 0.0009984970092773438s - Throughput: 498.07671297945615/s
+2023-12-01 14:26:01,696 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,698 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,701 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030012130737304688s
+2023-12-01 14:26:01,701 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,703 - INFO - Response Time: 0.00500035285949707s - HTTP Status Code: 200 - Latency: 0.0019991397857666016s - Throughput: 199.9858866161255/s
+2023-12-01 14:26:01,704 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,705 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,706 - INFO - Data fetched successfully - Query Time: 0.0009989738464355469s - API Time: 0.005001068115234375s
+2023-12-01 14:26:01,707 - INFO - Response Time: 0.005998134613037109s - HTTP Status Code: 200 - Latency: 0.0009970664978027344s - Throughput: 166.7184990857779/s
+2023-12-01 14:26:01,707 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,708 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030002593994140625s
+2023-12-01 14:26:01,708 - INFO - Response Time: 0.004002809524536133s - HTTP Status Code: 200 - Latency: 0.0010025501251220703s - Throughput: 249.82452796473882/s
+2023-12-01 14:26:01,710 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,722 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,723 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010006427764892578s
+2023-12-01 14:26:01,723 - INFO - Response Time: 0.0010006427764892578s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 999.3576364069573/s
+2023-12-01 14:26:01,724 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,728 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,732 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,732 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003997802734375s
+2023-12-01 14:26:01,734 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,735 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001996755599975586s
+2023-12-01 14:26:01,735 - INFO - Response Time: 0.006999969482421875s - HTTP Status Code: 200 - Latency: 0.005003213882446289s - Throughput: 142.85776566757494/s
+2023-12-01 14:26:01,736 - INFO - Response Time: 0.003999471664428711s - HTTP Status Code: 200 - Latency: 0.002002716064453125s - Throughput: 250.03302533532042/s
+2023-12-01 14:26:01,736 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,738 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004010677337646484s
+2023-12-01 14:26:01,738 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,740 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,740 - INFO - Response Time: 0.0055234432220458984s - HTTP Status Code: 200 - Latency: 0.001512765884399414s - Throughput: 181.04648853973325/s
+2023-12-01 14:26:01,742 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0035271644592285156s
+2023-12-01 14:26:01,742 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,743 - INFO - Response Time: 0.004529714584350586s - HTTP Status Code: 200 - Latency: 0.0010025501251220703s - Throughput: 220.76446128743618/s
+2023-12-01 14:26:01,744 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,757 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,759 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002002239227294922s
+2023-12-01 14:26:01,760 - INFO - Response Time: 0.00299835205078125s - HTTP Status Code: 200 - Latency: 0.0009961128234863281s - Throughput: 333.5165394402036/s
+2023-12-01 14:26:01,760 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,761 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,763 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019979476928710938s
+2023-12-01 14:26:01,763 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,764 - INFO - Response Time: 0.0029990673065185547s - HTTP Status Code: 200 - Latency: 0.001001119613647461s - Throughput: 333.4369981715558/s
+2023-12-01 14:26:01,766 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,767 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,767 - INFO - Data fetched successfully - Query Time: 0.0010023117065429688s - API Time: 0.0039980411529541016s
+2023-12-01 14:26:01,770 - INFO - Response Time: 0.006998777389526367s - HTTP Status Code: 200 - Latency: 0.0030007362365722656s - Throughput: 142.88209845000853/s
+2023-12-01 14:26:01,770 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030007362365722656s
+2023-12-01 14:26:01,771 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,772 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,772 - INFO - Response Time: 0.005008697509765625s - HTTP Status Code: 200 - Latency: 0.0020079612731933594s - Throughput: 199.65270373191166/s
+2023-12-01 14:26:01,774 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,774 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003004312515258789s
+2023-12-01 14:26:01,779 - INFO - Response Time: 0.007996559143066406s - HTTP Status Code: 200 - Latency: 0.004992246627807617s - Throughput: 125.05378652355397/s
+2023-12-01 14:26:01,780 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,791 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,793 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020034313201904297s
+2023-12-01 14:26:01,793 - INFO - Response Time: 0.0020034313201904297s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 499.1436391764846/s
+2023-12-01 14:26:01,794 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,794 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,796 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020110607147216797s
+2023-12-01 14:26:01,799 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,801 - INFO - Response Time: 0.0069980621337890625s - HTTP Status Code: 200 - Latency: 0.004987001419067383s - Throughput: 142.8967020986645/s
+2023-12-01 14:26:01,803 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,804 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,804 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004991769790649414s
+2023-12-01 14:26:01,806 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,808 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00299835205078125s
+2023-12-01 14:26:01,808 - INFO - Response Time: 0.008989095687866211s - HTTP Status Code: 200 - Latency: 0.005990743637084961s - Throughput: 111.24589555207808/s
+2023-12-01 14:26:01,809 - INFO - Response Time: 0.005002021789550781s - HTTP Status Code: 200 - Latency: 0.0020036697387695312s - Throughput: 199.91916110581505/s
+2023-12-01 14:26:01,809 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,810 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,811 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00500035285949707s
+2023-12-01 14:26:01,812 - INFO - Response Time: 0.005999088287353516s - HTTP Status Code: 200 - Latency: 0.0009987354278564453s - Throughput: 166.69199586678323/s
+2023-12-01 14:26:01,813 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,829 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,831 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001998424530029297s
+2023-12-01 14:26:01,831 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,831 - INFO - Response Time: 0.001998424530029297s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 500.3941780004772/s
+2023-12-01 14:26:01,832 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,833 - INFO - Data fetched successfully - Query Time: 0.0010006427764892578s - API Time: 0.0020024776458740234s
+2023-12-01 14:26:01,833 - INFO - Response Time: 0.0020024776458740234s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 499.38135492320515/s
+2023-12-01 14:26:01,833 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,836 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,839 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030198097229003906s
+2023-12-01 14:26:01,840 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,841 - INFO - Response Time: 0.005530834197998047s - HTTP Status Code: 200 - Latency: 0.0025110244750976562s - Throughput: 180.80455211656178/s
+2023-12-01 14:26:01,843 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,844 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00452876091003418s
+2023-12-01 14:26:01,844 - INFO - Response Time: 0.00452876091003418s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 220.81095025006582/s
+2023-12-01 14:26:01,845 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,845 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,848 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003000020980834961s
+2023-12-01 14:26:01,848 - INFO - Response Time: 0.003000020980834961s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.3310021457522/s
+2023-12-01 14:26:01,849 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,865 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,866 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,868 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030007362365722656s
+2023-12-01 14:26:01,868 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020012855529785156s
+2023-12-01 14:26:01,868 - INFO - Response Time: 0.0030007362365722656s - HTTP Status Code: 200 - Latency: 0.00099945068359375s - Throughput: 333.2515493405371/s
+2023-12-01 14:26:01,869 - INFO - Response Time: 0.0030019283294677734s - HTTP Status Code: 200 - Latency: 0.0010006427764892578s - Throughput: 333.11921213565245/s
+2023-12-01 14:26:01,869 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,870 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,870 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,871 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,895 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,896 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.02699589729309082s
+2023-12-01 14:26:01,898 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.027002573013305664s
+2023-12-01 14:26:01,899 - INFO - Response Time: 0.030000686645507812s - HTTP Status Code: 200 - Latency: 0.0029981136322021484s - Throughput: 33.332570411342104/s
+2023-12-01 14:26:01,900 - INFO - Response Time: 0.02901458740234375s - HTTP Status Code: 200 - Latency: 0.002012014389038086s - Throughput: 34.46542203523534/s
+2023-12-01 14:26:01,900 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005013942718505859s
+2023-12-01 14:26:01,901 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,903 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,903 - INFO - Response Time: 0.007998466491699219s - HTTP Status Code: 200 - Latency: 0.0029845237731933594s - Throughput: 125.02396566114224/s
+2023-12-01 14:26:01,904 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,920 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,922 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020017623901367188s
+2023-12-01 14:26:01,922 - INFO - Response Time: 0.0020017623901367188s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 499.5597903763697/s
+2023-12-01 14:26:01,923 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,923 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,925 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,926 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029981136322021484s
+2023-12-01 14:26:01,927 - INFO - Response Time: 0.0029981136322021484s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.5430616302187/s
+2023-12-01 14:26:01,927 - INFO - Data fetched successfully - Query Time: 0.0009975433349609375s - API Time: 0.0019989013671875s
+2023-12-01 14:26:01,927 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,929 - INFO - Response Time: 0.0030014514923095703s - HTTP Status Code: 200 - Latency: 0.0010025501251220703s - Throughput: 333.1721344030503/s
+2023-12-01 14:26:01,929 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,930 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,933 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,934 - INFO - Data fetched successfully - Query Time: 0.0010013580322265625s - API Time: 0.0040013790130615234s
+2023-12-01 14:26:01,936 - INFO - Response Time: 0.005999565124511719s - HTTP Status Code: 200 - Latency: 0.0019981861114501953s - Throughput: 166.67874741694484/s
+2023-12-01 14:26:01,937 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,939 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00599980354309082s
+2023-12-01 14:26:01,941 - INFO - Response Time: 0.007997274398803711s - HTTP Status Code: 200 - Latency: 0.0019974708557128906s - Throughput: 125.0426020332111/s
+2023-12-01 14:26:01,941 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,953 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,955 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,956 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003002643585205078s
+2023-12-01 14:26:01,956 - INFO - Response Time: 0.003002643585205078s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.03986025091314/s
+2023-12-01 14:26:01,957 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,958 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0030019283294677734s
+2023-12-01 14:26:01,958 - INFO - Response Time: 0.0030019283294677734s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.11921213565245/s
+2023-12-01 14:26:01,959 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,959 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,962 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,963 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004007816314697266s
+2023-12-01 14:26:01,965 - INFO - Response Time: 0.00599980354309082s - HTTP Status Code: 200 - Latency: 0.0019919872283935547s - Throughput: 166.67212398172063/s
+2023-12-01 14:26:01,966 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,967 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,967 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00499415397644043s
+2023-12-01 14:26:01,971 - INFO - Response Time: 0.008000850677490234s - HTTP Status Code: 200 - Latency: 0.0030066967010498047s - Throughput: 124.986709577448/s
+2023-12-01 14:26:01,971 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,972 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005005598068237305s
+2023-12-01 14:26:01,972 - INFO - Response Time: 0.005005598068237305s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 199.77632769707074/s
+2023-12-01 14:26:01,975 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,991 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,992 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001001119613647461s
+2023-12-01 14:26:01,993 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,993 - INFO - Response Time: 0.0029947757720947266s - HTTP Status Code: 200 - Latency: 0.0019936561584472656s - Throughput: 333.91481569938696/s
+2023-12-01 14:26:01,995 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:01,996 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,996 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002999544143676758s
+2023-12-01 14:26:01,997 - INFO - Response Time: 0.0039997100830078125s - HTTP Status Code: 200 - Latency: 0.0010001659393310547s - Throughput: 250.01812112541725/s
+2023-12-01 14:26:01,998 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:01,999 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,000 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004010915756225586s
+2023-12-01 14:26:02,004 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006002187728881836s
+2023-12-01 14:26:02,004 - INFO - Response Time: 0.008000850677490234s - HTTP Status Code: 200 - Latency: 0.0019986629486083984s - Throughput: 124.986709577448/s
+2023-12-01 14:26:02,005 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,006 - INFO - Response Time: 0.008004426956176758s - HTTP Status Code: 200 - Latency: 0.002002239227294922s - Throughput: 124.93086706579692/s
+2023-12-01 14:26:02,007 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,008 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,008 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002989053726196289s
+2023-12-01 14:26:02,011 - INFO - Response Time: 0.005990028381347656s - HTTP Status Code: 200 - Latency: 0.003000974655151367s - Throughput: 166.9441171787932/s
+2023-12-01 14:26:02,011 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,026 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,028 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019998550415039062s
+2023-12-01 14:26:02,028 - INFO - Response Time: 0.0019998550415039062s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 500.0362422508345/s
+2023-12-01 14:26:02,029 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,029 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,032 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003000974655151367s
+2023-12-01 14:26:02,032 - INFO - Response Time: 0.003000974655151367s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.2250734885199/s
+2023-12-01 14:26:02,033 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,034 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,036 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,038 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0039942264556884766s
+2023-12-01 14:26:02,039 - INFO - Response Time: 0.0049932003021240234s - HTTP Status Code: 200 - Latency: 0.0009989738464355469s - Throughput: 200.27235830587787/s
+2023-12-01 14:26:02,040 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0040018558502197266s
+2023-12-01 14:26:02,040 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,041 - INFO - Response Time: 0.004998207092285156s - HTTP Status Code: 200 - Latency: 0.0009963512420654297s - Throughput: 200.07174203396298/s
+2023-12-01 14:26:02,042 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,044 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,046 - INFO - Data fetched successfully - Query Time: 0.0010030269622802734s - API Time: 0.005002498626708984s
+2023-12-01 14:26:02,048 - INFO - Response Time: 0.006015777587890625s - HTTP Status Code: 200 - Latency: 0.0010132789611816406s - Throughput: 166.2295497780596/s
+2023-12-01 14:26:02,048 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,062 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,064 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,065 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029997825622558594s
+2023-12-01 14:26:02,065 - INFO - Response Time: 0.0029997825622558594s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.3574948338897/s
+2023-12-01 14:26:02,065 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010018348693847656s
+2023-12-01 14:26:02,066 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,066 - INFO - Response Time: 0.002000570297241211s - HTTP Status Code: 200 - Latency: 0.0009987354278564453s - Throughput: 499.85746633297583/s
+2023-12-01 14:26:02,067 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,069 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,072 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029997825622558594s
+2023-12-01 14:26:02,074 - INFO - Response Time: 0.0059986114501953125s - HTTP Status Code: 200 - Latency: 0.002998828887939453s - Throughput: 166.70524642289348/s
+2023-12-01 14:26:02,075 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,075 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,077 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,077 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019388198852539062s
+2023-12-01 14:26:02,078 - INFO - Response Time: 0.0029447078704833984s - HTTP Status Code: 200 - Latency: 0.0010058879852294922s - Throughput: 339.59225973605373/s
+2023-12-01 14:26:02,079 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,079 - INFO - Data fetched successfully - Query Time: 0.0010058879852294922s - API Time: 0.0019991397857666016s
+2023-12-01 14:26:02,080 - INFO - Response Time: 0.0030024051666259766s - HTTP Status Code: 200 - Latency: 0.001003265380859375s - Throughput: 333.06630667831337/s
+2023-12-01 14:26:02,080 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,095 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,096 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,097 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019989013671875s
+2023-12-01 14:26:02,098 - INFO - Response Time: 0.0029993057250976562s - HTTP Status Code: 200 - Latency: 0.0010004043579101562s - Throughput: 333.41049284578696/s
+2023-12-01 14:26:02,098 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020003318786621094s
+2023-12-01 14:26:02,099 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,099 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,100 - INFO - Response Time: 0.003998994827270508s - HTTP Status Code: 200 - Latency: 0.0019986629486083984s - Throughput: 250.06283908662732/s
+2023-12-01 14:26:02,101 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,102 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003002166748046875s
+2023-12-01 14:26:02,103 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,104 - INFO - Response Time: 0.005002260208129883s - HTTP Status Code: 200 - Latency: 0.002000093460083008s - Throughput: 199.90963252466517/s
+2023-12-01 14:26:02,106 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,110 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,110 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0069887638092041016s
+2023-12-01 14:26:02,112 - INFO - Response Time: 0.007983684539794922s - HTTP Status Code: 200 - Latency: 0.0009949207305908203s - Throughput: 125.25545003882219/s
+2023-12-01 14:26:02,112 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,113 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006002187728881836s
+2023-12-01 14:26:02,113 - INFO - Response Time: 0.006994009017944336s - HTTP Status Code: 200 - Latency: 0.0009918212890625s - Throughput: 142.9795125276973/s
+2023-12-01 14:26:02,113 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,129 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,131 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020055770874023438s
+2023-12-01 14:26:02,132 - INFO - Response Time: 0.0030057430267333984s - HTTP Status Code: 200 - Latency: 0.0010001659393310547s - Throughput: 332.6964384865551/s
+2023-12-01 14:26:02,132 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,134 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,136 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,137 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020051002502441406s
+2023-12-01 14:26:02,139 - INFO - Response Time: 0.005014181137084961s - HTTP Status Code: 200 - Latency: 0.0030090808868408203s - Throughput: 199.43435880367076/s
+2023-12-01 14:26:02,140 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,147 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.010998249053955078s
+2023-12-01 14:26:02,147 - INFO - Response Time: 0.010998249053955078s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 90.92356384131801/s
+2023-12-01 14:26:02,148 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,189 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,191 - INFO - Data fetched successfully - Query Time: 0.0009989738464355469s - API Time: 0.0020003318786621094s
+2023-12-01 14:26:02,191 - INFO - Response Time: 0.0020003318786621094s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 499.9170441001192/s
+2023-12-01 14:26:02,191 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,194 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,197 - INFO - Data fetched successfully - Query Time: 0.0009870529174804688s - API Time: 0.002985239028930664s
+2023-12-01 14:26:02,197 - INFO - Response Time: 0.002985239028930664s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 334.98155099432955/s
+2023-12-01 14:26:02,197 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,220 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,222 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020017623901367188s
+2023-12-01 14:26:02,223 - INFO - Response Time: 0.003000497817993164s - HTTP Status Code: 200 - Latency: 0.0009987354278564453s - Throughput: 333.27802940007945/s
+2023-12-01 14:26:02,223 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,224 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,226 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,228 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0040149688720703125s
+2023-12-01 14:26:02,230 - INFO - Response Time: 0.006014585494995117s - HTTP Status Code: 200 - Latency: 0.0019996166229248047s - Throughput: 166.26249653149404/s
+2023-12-01 14:26:02,230 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,231 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005000591278076172s
+2023-12-01 14:26:02,232 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,232 - INFO - Response Time: 0.006001949310302734s - HTTP Status Code: 200 - Latency: 0.0010013580322265625s - Throughput: 166.61253674425996/s
+2023-12-01 14:26:02,235 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029993057250976562s
+2023-12-01 14:26:02,237 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,238 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,239 - INFO - Response Time: 0.0070002079010009766s - HTTP Status Code: 200 - Latency: 0.00400090217590332s - Throughput: 142.85290010558222/s
+2023-12-01 14:26:02,241 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,241 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0045125484466552734s
+2023-12-01 14:26:02,242 - INFO - Response Time: 0.005526542663574219s - HTTP Status Code: 200 - Latency: 0.0010139942169189453s - Throughput: 180.94495254529767/s
+2023-12-01 14:26:02,243 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,256 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,258 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.000997304916381836s
+2023-12-01 14:26:02,258 - INFO - Response Time: 0.0020012855529785156s - HTTP Status Code: 200 - Latency: 0.0010039806365966797s - Throughput: 499.67881820347867/s
+2023-12-01 14:26:02,258 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,266 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,268 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,269 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003006458282470703s
+2023-12-01 14:26:02,270 - INFO - Response Time: 0.0039997100830078125s - HTTP Status Code: 200 - Latency: 0.0009932518005371094s - Throughput: 250.01812112541725/s
+2023-12-01 14:26:02,270 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019996166229248047s
+2023-12-01 14:26:02,271 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,272 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,272 - INFO - Response Time: 0.004000425338745117s - HTTP Status Code: 200 - Latency: 0.0020008087158203125s - Throughput: 249.973419154896/s
+2023-12-01 14:26:02,274 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,275 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,276 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005007266998291016s
+2023-12-01 14:26:02,279 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0050008296966552734s
+2023-12-01 14:26:02,282 - INFO - Response Time: 0.009998321533203125s - HTTP Status Code: 200 - Latency: 0.0049974918365478516s - Throughput: 100.01678748569249/s
+2023-12-01 14:26:02,282 - INFO - Response Time: 0.008001327514648438s - HTTP Status Code: 200 - Latency: 0.003000497817993164s - Throughput: 124.9792610250298/s
+2023-12-01 14:26:02,282 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,283 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,301 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,303 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,304 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00299835205078125s
+2023-12-01 14:26:02,305 - INFO - Response Time: 0.003996372222900391s - HTTP Status Code: 200 - Latency: 0.0009980201721191406s - Throughput: 250.2269418923756/s
+2023-12-01 14:26:02,305 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001996278762817383s
+2023-12-01 14:26:02,306 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,307 - INFO - Response Time: 0.003998756408691406s - HTTP Status Code: 200 - Latency: 0.0020024776458740234s - Throughput: 250.07774862866682/s
+2023-12-01 14:26:02,308 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,310 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,312 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,315 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,317 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.008996248245239258s
+2023-12-01 14:26:02,318 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.008006811141967773s
+2023-12-01 14:26:02,319 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0039942264556884766s
+2023-12-01 14:26:02,320 - INFO - Response Time: 0.012000083923339844s - HTTP Status Code: 200 - Latency: 0.008005857467651367s - Throughput: 83.33275053643806/s
+2023-12-01 14:26:02,321 - INFO - Response Time: 0.010999679565429688s - HTTP Status Code: 200 - Latency: 0.007005453109741211s - Throughput: 90.91173920582625/s
+2023-12-01 14:26:02,321 - INFO - Response Time: 0.005998373031616211s - HTTP Status Code: 200 - Latency: 0.0020041465759277344s - Throughput: 166.71187249095752/s
+2023-12-01 14:26:02,325 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,326 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,326 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,349 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,351 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,352 - INFO - Data fetched successfully - Query Time: 0.0010027885437011719s - API Time: 0.0029990673065185547s
+2023-12-01 14:26:02,353 - INFO - Response Time: 0.0029990673065185547s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.4369981715558/s
+2023-12-01 14:26:02,353 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001992940902709961s
+2023-12-01 14:26:02,353 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,354 - INFO - Response Time: 0.002989053726196289s - HTTP Status Code: 200 - Latency: 0.0009961128234863281s - Throughput: 334.5540400414772/s
+2023-12-01 14:26:02,355 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,356 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,359 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0040013790130615234s
+2023-12-01 14:26:02,359 - INFO - Response Time: 0.0040013790130615234s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 249.9138413871179/s
+2023-12-01 14:26:02,360 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,362 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,363 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,366 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006002664566040039s
+2023-12-01 14:26:02,367 - INFO - Response Time: 0.0070035457611083984s - HTTP Status Code: 200 - Latency: 0.0010008811950683594s - Throughput: 142.7848170212766/s
+2023-12-01 14:26:02,368 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,368 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0050048828125s
+2023-12-01 14:26:02,370 - INFO - Response Time: 0.007004261016845703s - HTTP Status Code: 200 - Latency: 0.001999378204345703s - Throughput: 142.77023623119342/s
+2023-12-01 14:26:02,371 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,385 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,386 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0009932518005371094s
+2023-12-01 14:26:02,387 - INFO - Response Time: 0.0019941329956054688s - HTTP Status Code: 200 - Latency: 0.0010008811950683594s - Throughput: 501.47106647537066/s
+2023-12-01 14:26:02,388 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,390 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,392 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019969940185546875s
+2023-12-01 14:26:02,392 - INFO - Response Time: 0.0019969940185546875s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 500.75262655205347/s
+2023-12-01 14:26:02,393 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,394 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,398 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,400 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005993843078613281s
+2023-12-01 14:26:02,401 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003002643585205078s
+2023-12-01 14:26:02,402 - INFO - Response Time: 0.007992744445800781s - HTTP Status Code: 200 - Latency: 0.004990100860595703s - Throughput: 125.1134709461878/s
+2023-12-01 14:26:02,402 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,403 - INFO - Response Time: 0.004994392395019531s - HTTP Status Code: 200 - Latency: 0.001991748809814453s - Throughput: 200.22455604353638/s
+2023-12-01 14:26:02,403 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,404 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,405 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003002643585205078s
+2023-12-01 14:26:02,405 - INFO - Response Time: 0.003002643585205078s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.03986025091314/s
+2023-12-01 14:26:02,406 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,423 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,424 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,425 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0019953250885009766s
+2023-12-01 14:26:02,427 - INFO - Response Time: 0.002996206283569336s - HTTP Status Code: 200 - Latency: 0.0010008811950683594s - Throughput: 333.75539110368425/s
+2023-12-01 14:26:02,427 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029947757720947266s
+2023-12-01 14:26:02,427 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,428 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,428 - INFO - Response Time: 0.004000425338745117s - HTTP Status Code: 200 - Latency: 0.0010056495666503906s - Throughput: 249.973419154896/s
+2023-12-01 14:26:02,429 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,432 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003998994827270508s
+2023-12-01 14:26:02,432 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,433 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,436 - INFO - Response Time: 0.007995843887329102s - HTTP Status Code: 200 - Latency: 0.003996849060058594s - Throughput: 125.06497301487909/s
+2023-12-01 14:26:02,437 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.007997274398803711s
+2023-12-01 14:26:02,437 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,437 - INFO - Response Time: 0.007997274398803711s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 125.0426020332111/s
+2023-12-01 14:26:02,438 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004991769790649414s
+2023-12-01 14:26:02,439 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,440 - INFO - Response Time: 0.006995439529418945s - HTTP Status Code: 200 - Latency: 0.0020036697387695312s - Throughput: 142.95027436011043/s
+2023-12-01 14:26:02,442 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,489 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,495 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,496 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006991863250732422s
+2023-12-01 14:26:02,496 - INFO - Response Time: 0.007991790771484375s - HTTP Status Code: 200 - Latency: 0.0009999275207519531s - Throughput: 125.12840095465394/s
+2023-12-01 14:26:02,497 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,497 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002004861831665039s
+2023-12-01 14:26:02,497 - INFO - Response Time: 0.002004861831665039s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 498.7874895944821/s
+2023-12-01 14:26:02,498 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,505 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,517 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.012003898620605469s
+2023-12-01 14:26:02,518 - INFO - Response Time: 0.013010501861572266s - HTTP Status Code: 200 - Latency: 0.0010066032409667969s - Throughput: 76.86098588968298/s
+2023-12-01 14:26:02,518 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,519 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,520 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,522 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002999544143676758s
+2023-12-01 14:26:02,522 - INFO - Response Time: 0.002999544143676758s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 333.38399173356646/s
+2023-12-01 14:26:02,523 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,524 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004002809524536133s
+2023-12-01 14:26:02,525 - INFO - Response Time: 0.005002737045288086s - HTTP Status Code: 200 - Latency: 0.0009999275207519531s - Throughput: 199.89057808702282/s
+2023-12-01 14:26:02,525 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,539 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,541 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.001995563507080078s
+2023-12-01 14:26:02,542 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,542 - INFO - Response Time: 0.00299835205078125s - HTTP Status Code: 200 - Latency: 0.0010027885437011719s - Throughput: 333.5165394402036/s
+2023-12-01 14:26:02,543 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,545 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,545 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003004312515258789s
+2023-12-01 14:26:02,547 - INFO - Response Time: 0.005002737045288086s - HTTP Status Code: 200 - Latency: 0.001998424530029297s - Throughput: 199.89057808702282/s
+2023-12-01 14:26:02,548 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,548 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,548 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0029969215393066406s
+2023-12-01 14:26:02,551 - INFO - Response Time: 0.005995273590087891s - HTTP Status Code: 200 - Latency: 0.00299835205078125s - Throughput: 166.7980593334924/s
+2023-12-01 14:26:02,552 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,553 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00500178337097168s
+2023-12-01 14:26:02,553 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,554 - INFO - Response Time: 0.007005453109741211s - HTTP Status Code: 200 - Latency: 0.0020036697387695312s - Throughput: 142.74594153081713/s
+2023-12-01 14:26:02,555 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,556 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.004004716873168945s
+2023-12-01 14:26:02,558 - INFO - Response Time: 0.0059967041015625s - HTTP Status Code: 200 - Latency: 0.0019919872283935547s - Throughput: 166.7582697201018/s
+2023-12-01 14:26:02,558 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,575 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,577 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002004861831665039s
+2023-12-01 14:26:02,577 - INFO - Response Time: 0.002004861831665039s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 498.7874895944821/s
+2023-12-01 14:26:02,578 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,579 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,582 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,583 - INFO - Data fetched successfully - Query Time: 0.0009982585906982422s - API Time: 0.0050089359283447266s
+2023-12-01 14:26:02,586 - INFO - Response Time: 0.008005857467651367s - HTTP Status Code: 200 - Latency: 0.0029969215393066406s - Throughput: 124.90854403049525/s
+2023-12-01 14:26:02,586 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,586 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,587 - DEBUG - Fetching data from MongoDB
+2023-12-01 14:26:02,589 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006991386413574219s
+2023-12-01 14:26:02,592 - INFO - Response Time: 0.009995698928833008s - HTTP Status Code: 200 - Latency: 0.003004312515258789s - Throughput: 100.04302921884317/s
+2023-12-01 14:26:02,592 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005997657775878906s
+2023-12-01 14:26:02,593 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,593 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.006005287170410156s
+2023-12-01 14:26:02,594 - INFO - Response Time: 0.007993936538696289s - HTTP Status Code: 200 - Latency: 0.001988649368286133s - Throughput: 125.09481344507739/s
+2023-12-01 14:26:02,595 - INFO - Response Time: 0.00800180435180664s - HTTP Status Code: 200 - Latency: 0.0019965171813964844s - Throughput: 124.97181336034801/s
+2023-12-01 14:26:02,595 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 14:26:02,596 - INFO - 127.0.0.1 - - [01/Dec/2023 14:26:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:32:51,576 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-01 15:32:51,577 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-01 15:32:51,582 - INFO -  * Restarting with stat
+2023-12-01 15:32:54,668 - WARNING -  * Debugger is active!
+2023-12-01 15:32:54,694 - INFO -  * Debugger PIN: 309-501-681
+2023-12-01 15:32:56,539 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:32:56,550 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.012911081314086914s
+2023-12-01 15:32:56,551 - INFO - Response Time: 0.01345968246459961s - HTTP Status Code: 200 - Latency: 0.0005486011505126953s - Throughput: 74.29595777092854/s
+2023-12-01 15:32:56,551 - INFO - 127.0.0.1 - - [01/Dec/2023 15:32:56] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:32:58,010 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:32:58,013 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0033109188079833984s
+2023-12-01 15:32:58,014 - INFO - Response Time: 0.0041980743408203125s - HTTP Status Code: 200 - Latency: 0.0008871555328369141s - Throughput: 238.2044525215811/s
+2023-12-01 15:32:58,014 - INFO - 127.0.0.1 - - [01/Dec/2023 15:32:58] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:32:58,700 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:32:58,702 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002000570297241211s
+2023-12-01 15:32:58,702 - INFO - Response Time: 0.002000570297241211s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 499.85746633297583/s
+2023-12-01 15:32:58,703 - INFO - 127.0.0.1 - - [01/Dec/2023 15:32:58] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:32:59,276 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:32:59,282 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.005285501480102539s
+2023-12-01 15:32:59,282 - INFO - Response Time: 0.005285501480102539s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 189.19680635121114/s
+2023-12-01 15:32:59,282 - INFO - 127.0.0.1 - - [01/Dec/2023 15:32:59] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:32:59,834 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:32:59,836 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002519845962524414s
+2023-12-01 15:32:59,836 - INFO - Response Time: 0.002519845962524414s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 396.84965465039267/s
+2023-12-01 15:32:59,836 - INFO - 127.0.0.1 - - [01/Dec/2023 15:32:59] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:00,500 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:00,502 - INFO - Data fetched successfully - Query Time: 0.0005435943603515625s - API Time: 0.0017752647399902344s
+2023-12-01 15:33:00,502 - INFO - Response Time: 0.0017752647399902344s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 563.2962664517862/s
+2023-12-01 15:33:00,504 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:01,155 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:01,159 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.003177642822265625s
+2023-12-01 15:33:01,159 - INFO - Response Time: 0.0037152767181396484s - HTTP Status Code: 200 - Latency: 0.0005376338958740234s - Throughput: 269.15895527177054/s
+2023-12-01 15:33:01,160 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:01,713 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:01,716 - INFO - Data fetched successfully - Query Time: 0.0010173320770263672s - API Time: 0.0020186901092529297s
+2023-12-01 15:33:01,716 - INFO - Response Time: 0.003016948699951172s - HTTP Status Code: 200 - Latency: 0.0009982585906982422s - Throughput: 331.4607238817765/s
+2023-12-01 15:33:01,717 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:01] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:02,435 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:02,436 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0016624927520751953s
+2023-12-01 15:33:02,436 - INFO - Response Time: 0.0016624927520751953s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 601.5063817582103/s
+2023-12-01 15:33:02,437 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:02,581 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:02,583 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010008811950683594s
+2023-12-01 15:33:02,583 - INFO - Response Time: 0.0015177726745605469s - HTTP Status Code: 200 - Latency: 0.0005168914794921875s - Throughput: 658.8601947847942/s
+2023-12-01 15:33:02,583 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:02,766 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:02,768 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0016109943389892578s
+2023-12-01 15:33:02,768 - INFO - Response Time: 0.0016109943389892578s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 620.7346455527601/s
+2023-12-01 15:33:02,768 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:02,946 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:02,948 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0026900768280029297s
+2023-12-01 15:33:02,948 - INFO - Response Time: 0.0026900768280029297s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 371.73659487724893/s
+2023-12-01 15:33:02,949 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:02] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:03,129 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:03,131 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0016551017761230469s
+2023-12-01 15:33:03,131 - INFO - Response Time: 0.0016551017761230469s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 604.1924517430135/s
+2023-12-01 15:33:03,132 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:03] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:03,292 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:03,294 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.00164794921875s
+2023-12-01 15:33:03,294 - INFO - Response Time: 0.00164794921875s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 606.8148148148148/s
+2023-12-01 15:33:03,295 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:03] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:03,425 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:03,426 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010998249053955078s
+2023-12-01 15:33:03,426 - INFO - Response Time: 0.0010998249053955078s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 909.2356384131801/s
+2023-12-01 15:33:03,428 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:03] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:14,579 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:14,581 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.002193927764892578s
+2023-12-01 15:33:14,581 - INFO - Response Time: 0.002193927764892578s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 455.8035209737014/s
+2023-12-01 15:33:14,582 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:14] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:15,262 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:15,264 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0022017955780029297s
+2023-12-01 15:33:15,264 - INFO - Response Time: 0.0022017955780029297s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 454.1747698971305/s
+2023-12-01 15:33:15,265 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:15] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:15,778 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:15,780 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010592937469482422s
+2023-12-01 15:33:15,780 - INFO - Response Time: 0.002596139907836914s - HTTP Status Code: 200 - Latency: 0.0015368461608886719s - Throughput: 385.18725319129396/s
+2023-12-01 15:33:15,781 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:15] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:16,194 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:16,195 - INFO - Data fetched successfully - Query Time: 0.0005440711975097656s - API Time: 0.0011241436004638672s
+2023-12-01 15:33:16,196 - INFO - Response Time: 0.0021393299102783203s - HTTP Status Code: 200 - Latency: 0.0010151863098144531s - Throughput: 467.4360860358854/s
+2023-12-01 15:33:16,196 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:16] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:16,623 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:16,625 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020155906677246094s
+2023-12-01 15:33:16,627 - INFO - Response Time: 0.00336456298828125s - HTTP Status Code: 200 - Latency: 0.0013489723205566406s - Throughput: 297.2154195011338/s
+2023-12-01 15:33:16,627 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:16] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:16,790 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:16,791 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0015439987182617188s
+2023-12-01 15:33:16,792 - INFO - Response Time: 0.0025739669799804688s - HTTP Status Code: 200 - Latency: 0.00102996826171875s - Throughput: 388.5053723601334/s
+2023-12-01 15:33:16,792 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:16] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:33:17,139 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:33:17,141 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0016782283782958984s
+2023-12-01 15:33:17,142 - INFO - Response Time: 0.002196073532104492s - HTTP Status Code: 200 - Latency: 0.0005178451538085938s - Throughput: 455.35815872326566/s
+2023-12-01 15:33:17,142 - INFO - 127.0.0.1 - - [01/Dec/2023 15:33:17] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:34:00,280 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:34:00,282 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0020651817321777344s
+2023-12-01 15:34:00,282 - INFO - Response Time: 0.0020651817321777344s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 484.2188870930501/s
+2023-12-01 15:34:00,282 - INFO - 127.0.0.1 - - [01/Dec/2023 15:34:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:34:00,916 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:34:00,918 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0015361309051513672s
+2023-12-01 15:34:00,918 - INFO - Response Time: 0.0015361309051513672s - HTTP Status Code: 200 - Latency: 0.0s - Throughput: 650.9861865590564/s
+2023-12-01 15:34:00,919 - INFO - 127.0.0.1 - - [01/Dec/2023 15:34:00] "GET /fetch HTTP/1.1" 200 -
+2023-12-01 15:34:01,531 - DEBUG - Fetching data from MongoDB
+2023-12-01 15:34:01,532 - INFO - Data fetched successfully - Query Time: 0.0s - API Time: 0.0010833740234375s
+2023-12-01 15:34:01,532 - INFO - Response Time: 0.001615762710571289s - HTTP Status Code: 200 - Latency: 0.0005323886871337891s - Throughput: 618.9027593330383/s
+2023-12-01 15:34:01,533 - INFO - 127.0.0.1 - - [01/Dec/2023 15:34:01] "GET /fetch HTTP/1.1" 200 -

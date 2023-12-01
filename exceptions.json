@@ -1,0 +1,6 @@
+[
+    {
+        "chaos_type": "faulty_response",
+        "exception": "500 Server Error: OK for url: http://127.0.0.1:5000/fetch"
+    }
+]

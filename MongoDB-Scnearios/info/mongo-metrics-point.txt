@@ -1,0 +1,16 @@
+Connections: Number of active client connections.
+Network Traffic: Bytes in/out, number of requests.
+Memory Usage: Memory consumption by MongoDB processes, cache utilization.
+Locks: Information about database locks and contention.
+Opcounters: Counts of database operations (queries, inserts, updates, deletes, etc.).
+Repl Lag: Replication lag between primary and secondary nodes.
+Collection Statistics: Size, number of documents, and indexes for collections.
+Index Usage: Usage statistics for different indexes.
+Query Profiling: Information about slow queries, execution details.
+Storage Statistics: Disk space usage, data size, storage engine metrics.
+Oplog Metrics: Oplog size, utilization, operations per second.
+Replica Set Status: Status of nodes in the replica set.
+Chunk Information: Data distribution across shards in a sharded environment.
+Query Execution Stats: Execution times, query plans, and index usage for queries.
+Cursor Information: Cursor statistics and operations.
+System-Level Metrics: CPU usage, disk I/O, system-level metrics.
