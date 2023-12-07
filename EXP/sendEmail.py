@@ -5,9 +5,16 @@ import markdown2
 
 def drop_email():
     def read_markdown_file(file_path):
-        with open(file_path, 'r', encoding='utf-8') as file:
-            markdown_content = file.read()
-        return markdown_content
+        encodings = ['utf-8', 'utf-8-sig', 'latin-1']
+        for encoding in encodings:
+            try:
+                with open(file_path, 'r', encoding=encoding) as file:
+                    markdown_content = file.read()
+                return markdown_content
+            except UnicodeDecodeError:
+                pass
+        raise UnicodeDecodeError(f"Unable to decode the file at {file_path} using available encodings")
+
 
     sender_email = 'shayan851997@outlook.com'
     receiver_email = 'shayan851997@gmail.com'

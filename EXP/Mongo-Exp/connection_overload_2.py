@@ -26,7 +26,7 @@ def perform_operations(duration):
 
 def simulate_connection_overload(duration):
     threads = []
-    for _ in range(100):  # Creating 10 threads for concurrent connections (adjust as needed)
+    for _ in range(1000):  # Creating 10 threads for concurrent connections (adjust as needed)
         t = threading.Thread(target=perform_operations, args=(duration,))
         threads.append(t)
         t.start()
