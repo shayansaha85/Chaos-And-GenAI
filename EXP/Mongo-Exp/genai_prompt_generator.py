@@ -6,8 +6,9 @@ chaosTime_file = open("./LOGS/CHAOS_TIMING.txt", "r")
 data_time = chaosTime_file.read().strip()
 chaosTime_file.close()
 
-genAIPrompt  = "MONGO LOGS :\n\n" + data + "\n\n\n" + "CHAOS TESTING TIMEFRAME \n\n" + data_time + "\n\n" + "Please provide full insights about the health of mongodb during chaos testing, how it behaved, what are the assumptions, recommendation, root cause analysis"
+genAIPrompt  = "MONGO LOGS :\n\n" + data + "\n\n\n" + "CHAOS TESTING TIMEFRAME \n\n" + data_time + "\n\n" + "I have done Connection Overload Chaos experiment over Mongo DB. After analysing the logs with Chaos Start and End time, please provide full insights about the behavior of mongodb during chaos testing, how it behaved, what are the assumptions, recommendation, root cause analysis. And pin point all the issues that occured during the chaos testing"
 
 file = open("genai_prompt.txt", "w")
 file.write(genAIPrompt)
 file.close()
+print("GenAI Prompt Generated")

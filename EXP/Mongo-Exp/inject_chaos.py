@@ -13,3 +13,4 @@ content = content + "CHAOS END TIME : " + str(end_time) + "\n"
 file = open("./LOGS/CHAOS_TIMING.txt", "w")
 file.write(content)
 file.close()
+print("Chaos Injection Completed")

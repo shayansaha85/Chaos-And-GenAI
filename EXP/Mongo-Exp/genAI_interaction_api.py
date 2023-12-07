@@ -29,3 +29,4 @@ ask_file.close()
 
 
 askChaos(prompt)
+print("GenAI Output Generated")
