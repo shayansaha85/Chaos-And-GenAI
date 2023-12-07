@@ -44,6 +44,10 @@ def collect_all_metrics():
         print(f"Error occurred: {e}")
 
 if __name__ == "__main__":
+    print()
+    print("Data Collection Started... Press Ctrl + C to stop collecting data")
+    print("\n")
+
     duration = 60
     try:
         while True:
