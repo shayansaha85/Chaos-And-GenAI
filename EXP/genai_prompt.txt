@@ -1,3 +1,5 @@
+MONGO LOGS :
+
 {"Timestamp": "2023-12-07 19:26:31", "Metrics": {"Connections": {"current": 3, "available": 999997, "totalCreated": 39325, "rejected": 0, "active": 2, "threaded": 3, "exhaustIsMaster": 0, "exhaustHello": 0, "awaitingTopologyChanges": 1}}}
 {"Timestamp": "2023-12-07 19:26:31", "Metrics": {"Network Traffic": {"bytesIn": 35246001, "bytesOut": 1225411755, "physicalBytesIn": 21331843, "physicalBytesOut": 1224733203, "numSlowDNSOperations": 0, "numSlowSSLOperations": 0, "numRequests": 286063, "tcpFastOpen": {"serverSupported": true, "clientSupported": false, "accepted": 0}, "compression": {"snappy": {"compressor": {"bytesIn": 0, "bytesOut": 0}, "decompressor": {"bytesIn": 0, "bytesOut": 0}}, "zstd": {"compressor": {"bytesIn": 0, "bytesOut": 0}, "decompressor": {"bytesIn": 0, "bytesOut": 0}}, "zlib": {"compressor": {"bytesIn": 0, "bytesOut": 0}, "decompressor": {"bytesIn": 0, "bytesOut": 0}}}, "serviceExecutors": {"passthrough": {"threadsRunning": 3, "clientsInTotal": 3, "clientsRunning": 3, "clientsWaitingForData": 0}, "fixed": {"threadsRunning": 1, "clientsInTotal": 0, "clientsRunning": 0, "clientsWaitingForData": 0}}, "listenerProcessingTime": {"durationMicros": 23878327}}}}
 {"Timestamp": "2023-12-07 19:26:31", "Metrics": {"Memory Usage": {"bits": 64, "resident": 52, "virtual": 6965, "supported": true}}}
@@ -180,3 +182,11 @@
 {"Timestamp": "2023-12-07 19:29:37", "Metrics": {"Opcounters": {"insert": 0, "query": 924, "update": 7509, "delete": 5727, "getmore": 0, "command": 301035}}}
 {"Timestamp": "2023-12-07 19:29:37", "Metrics": {"Collection Statistics": {"ns": "TEST.test_collection", "size": 0, "count": 0, "numOrphanDocs": 0, "storageSize": 0, "totalSize": 0, "nindexes": 0, "totalIndexSize": 0, "indexDetails": {}, "indexSizes": {}, "scaleFactor": 1, "ok": 1.0}}}
 {"Timestamp": "2023-12-07 19:29:37", "Metrics": {"Index Usage": {}}}
+
+
+CHAOS TESTING TIMEFRAME 
+
+CHAOS START TIME : 2023-12-07 19:27:37.442552
+CHAOS END TIME : 2023-12-07 19:28:39.833251
+
+Please provide full insights about the health of mongodb during chaos testing, how it behaved, what are the assumptions, recommendation, root cause analysis

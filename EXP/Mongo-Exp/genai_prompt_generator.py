@@ -8,4 +8,6 @@ chaosTime_file.close()
 
 genAIPrompt  = "MONGO LOGS :\n\n" + data + "\n\n\n" + "CHAOS TESTING TIMEFRAME \n\n" + data_time + "\n\n" + "Please provide full insights about the health of mongodb during chaos testing, how it behaved, what are the assumptions, recommendation, root cause analysis"
 
-print(genAIPrompt)
+file = open("genai_prompt.txt", "w")
+file.write(genAIPrompt)
+file.close()
