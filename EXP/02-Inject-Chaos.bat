@@ -1,4 +1,4 @@
 
 
-start python ./Mongo-Exp/inject_chaos.py 60
+start python ./Mongo-Exp/inject_chaos.py t=60
 timeout 75

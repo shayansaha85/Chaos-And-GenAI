@@ -3,6 +3,10 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import markdown2
 
+sender_username = "ENTER_SENDER_USERNAME"
+sender_password = "ENTER_SENDER_PASSWORD"
+receiver_email = "ENTER_RECEIVER_EMAIL"
+
 def drop_email():
     def read_markdown_file(file_path):
         encodings = ['utf-8', 'utf-8-sig', 'latin-1']
@@ -16,13 +20,13 @@ def drop_email():
         raise UnicodeDecodeError(f"Unable to decode the file at {file_path} using available encodings")
 
 
-    sender_email = 'shayan851997@outlook.com'
-    receiver_email = 'shayan851997@gmail.com'
+    sender_email = sender_username
+    receiver_email = receiver_email
     subject = 'Chaos on Mongo'
-    smtp_server = 'smtp.outlook.com' 
-    smtp_port = 587
-    smtp_username = 'shayan851997@outlook.com'
-    smtp_password = 'Shayan97@'
+    smtp_server = 'smtp.outlook.com' # ENTER YOUR SMTP URL
+    smtp_port = 587 # ENTER YOUR SMTP PORT
+    smtp_username = sender_username
+    smtp_password = sender_password
 
     markdown_file_path = './result.md'
 
