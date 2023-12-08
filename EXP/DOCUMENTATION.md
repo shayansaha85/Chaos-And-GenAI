@@ -8,7 +8,7 @@
 
 - Configure pip (The Python Package Manager) 👉 For the installation of required libraries
 
-- Open command prompt / powershell / terminal in the location of this location ( *Chaos-And-GenAI/EXP* ), and execute the below command :
+- Open command prompt / powershell / terminal in the location of this location ( *Chaos-And-GenAI/EXP* ), and execute the below command
 ```
 pip install -r requirements.txt
 ```
