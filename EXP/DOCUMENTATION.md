@@ -21,11 +21,10 @@ For our this project, our target database will be a MongoDB instance for which w
 
 - Mongo DB Compass (GUI for interacting with MongoDB instance) 👉 [Click here to download ⬇️](https://www.mongodb.com/try/download/compass)
 
-> ***NOTE** : With the new latest version of MongoDB, Compass will be automatically installed with the community server. In that case no need to download Compass again.*
+> ***NOTE** : With the latest version of MongoDB, Compass will be automatically installed with the community server. In that case no need to download Compass again.*
 
-After the installation of MongoDB we can check by executing the below commands whether MongoDB is up and running :
+After the installation of MongoDB we can check by executing the below command whether MongoDB is up and running
 
-**In Windows :**
 ```
 sc query MongoDB
 ```
@@ -75,4 +74,4 @@ Now as we have MongoDB configured, now we will create a collection and add a dum
 
 6. Then double click on **03-Generate-GenAI-Report.bat** file. It will take the logs created in the **LOGS** directory during the Chaos Experiment and prepare a prompt in a text file called **genai_prompt.txt**, and then another logic will consume this text file, and fetch GenAI's output and save it in a **result.md** file in the root directory of this project.
 
-7. **Emailing feature is still in construction🛠️**
+7. **Email feature is UNDER CONSTRUCTION 🛠️**
