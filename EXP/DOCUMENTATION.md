@@ -20,7 +20,7 @@ For our this project, our target database will be a MongoDB instance for which w
 - Mongo DB Server 👉 [Click here to download ⬇️](https://www.mongodb.com/try/download/community)
 
 - Mongo DB Compass (GUI for interacting with MongoDB instance) 👉 [Click here to download ⬇️](https://www.mongodb.com/try/download/compass)
-<br>
+
 > ***NOTE** : With the new latest version of MongoDB, Compass will be automatically installed with the community server. In that case no need to download Compass again.*
 
 After the installation of MongoDB we can check by executing the below commands whether MongoDB is up and running :
